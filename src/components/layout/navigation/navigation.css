@@ -1,0 +1,99 @@
+#nav-website {
+    background-color: #c3cfd9;
+}
+#nav-app {
+    background-color: #026AA7;
+}
+
+.profile {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-left: 1em;
+    cursor: pointer;
+}
+
+.profile-letter {
+    font-size: 1em;
+    color: #fff;
+}
+
+#nav-app .navbar-brand {
+    width: 90px;
+    justify-content: space-between;
+    display: flex;
+    color: #fff;
+}
+
+#nav-app a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#nav-app .menuToggle {
+    cursor: pointer;
+    align-self: center;
+    color: #fff;
+}
+
+#nav-website .menuToggle {
+    display: none;
+}
+
+#nav-website .navbar-brand a {
+    text-decoration: none;
+    color: #026AA7;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.menuToggle:hover {
+    padding: .1em;
+    background-color: #ECECEC;
+    z-index: 5;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+.profile-dropdown {
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    text-align: center;
+    z-index: 5;
+    color: #fff;
+}
+
+.profile-dropdown .btn {
+    margin-bottom: .5em;
+}
+
+#signUp {
+    border: 1px solid #026AA7 !important;
+    background-color: #026AA7 !important;
+    color: #fff !important;
+}
+
+#signUp:hover {
+    border: 1px solid #058bd8 !important;
+    background-color: #058bd8 !important;
+}
+
+
+#nav-website .navbar-brand svg {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    vertical-align: baseline;
+    fill: #026AA7;
+}
+
+#nav-app .navbar-brand svg {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    margin-left: 16px;
+    fill: #fff;
+    vertical-align: sub;
+}

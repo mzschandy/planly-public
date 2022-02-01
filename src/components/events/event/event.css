@@ -1,0 +1,430 @@
+.wrapper {
+  display: flex;
+}
+
+.content {
+  margin-left: 300px;
+  background-color: #FFFFFF;
+  transition: .2s;
+  width: 100%;
+  padding: 0 3em 1em 3em;
+}
+
+.header  {
+  margin-top: 1.5em;
+}
+
+.content.responsive {
+  margin-left: 0;
+  width: 100%;
+  transition: .3s;
+}
+
+
+.event-name, .event-details, .event-name > div {
+  display: flex;
+}
+
+.event-name {
+  justify-content: space-between;
+}
+
+.event-details {
+  margin-bottom: 1em;
+}
+
+.event-details .location {
+  margin-left: .5em;
+  font-weight: 800;
+}
+
+.event-details .time {
+  margin-left: .5em;
+}
+
+.event-description {
+  margin-bottom: 1em;
+}
+
+.event-name .hosted-by {
+  align-self: center;
+  margin-left: .7em;
+}
+
+.event-name .edit-event {
+  justify-self: flex-end;
+}
+
+.edit-event > div {
+  align-self: center;
+}
+
+.edit-event .fa-close {
+  margin-left: 1em;
+  font-size: 1.4rem;
+  color: red;
+  align-self: center;
+  cursor: pointer;
+}
+
+.fa-close:hover {
+  border: 1px solid #ECECEC;
+  background-color: #ECECEC;
+  padding: .3em;
+  border-radius: 4px;
+}
+
+.deleteBtn {
+  justify-self: flex-end;
+}
+
+.invitees .lister {
+  display: flex;
+}
+
+.tasks .lister {
+  display: flex;
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+.taskList {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 4px;
+  width: 270px;
+  min-width: 270px;
+  padding: 1em;
+  margin-right: 1em;
+  height: min-content;
+  transition: .3s;
+}
+.taskList:hover {
+  border: 1px solid rgba(0,0,0,.5);
+}
+
+.taskList .list-head {
+  font-weight: 800;
+  display: flex;
+  justify-content: space-between;
+}
+
+.taskList .list-head:hover i {
+  display: block;
+}
+
+.taskList .list-head i {
+  display: none;
+  align-self: center;
+  cursor: pointer;
+}
+
+.newTaskList {
+  border: 1px solid #ECECEC;
+  border-radius: 4px;
+  width: 270px;
+  padding: .5em 1em;
+  margin-right: 1em;
+  height: min-content;
+  cursor: pointer;
+  text-align: center;
+}
+
+.newTaskList i {
+  margin-right: 5px;
+}
+
+.newTaskList input[type="text"] {
+  margin-bottom: .5em;
+}
+
+.newTaskList .buttons {
+  margin-top: .5em;
+}
+
+.newListHeader:hover {
+  font-weight: 800;
+}
+
+.newListHeader.hideAdd {
+  display: none;
+}
+
+.newListForm {
+  display: none;
+}
+
+.newListForm.showForm {
+  display: block;
+}
+
+.todo {
+  margin: .5em 0;
+  display: flex;
+  flex-direction: column;
+  transition: .3s;
+}
+
+.todo h6 {
+  text-align: center;
+}
+
+.todo:hover {
+  border: 1px solid rgba(0,0,0,.35);
+}
+
+.todo .todo-body {
+  font-size: .8rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.todo .todo-body > div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.todo .delete {
+  display: none;
+}
+
+.todo.owner:hover .delete {
+  display: block;
+  justify-self: flex-end;
+  z-index: 5;
+  cursor: pointer;
+}
+
+/*
+.todo.owner .delete {
+  display: block;
+  justify-self: flex-end;
+  z-index: 5;
+}*/
+
+.todo .name {
+  margin-left: .5em;
+  margin-top: -.2em;
+  font-size: .8rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.todo .assigned {
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: .2em;
+}
+
+.todo select {
+  font-size: .8rem;
+  border: none;
+  width: auto;
+  cursor: pointer;
+}
+
+.todo .dropdown {
+  display: flex;
+  cursor: pointer;
+}
+
+.todoProfile {
+  height: 25px;
+  width: 25px;
+  margin-left: .2em;
+}
+
+.todo .label {
+  justify-content: flex-end;
+  font-size: .5rem;
+  align-self: center;
+}
+
+.todo .toggle {
+  align-self: center;
+  margin-left: .2em;
+}
+
+.todo input[type="checkbox"] {
+  cursor: pointer;
+}
+
+input:checked + div {
+  text-decoration: line-through;
+}
+
+.tasks .card-body {
+  padding: 1rem;
+}
+
+.new-task {
+  text-align: center;
+  padding: .2em;
+  cursor: pointer;
+}
+
+.new-task i {
+  margin-right: 5px;
+}
+
+.new-task input[type="text"] {
+  margin-bottom: .5em;
+}
+
+.new-task .buttons {
+  margin-top: .5em;
+}
+
+.newTaskHeader:hover {
+  border: 1px solid #ECECEC;
+  background-color: #ECECEC;
+  border-radius: 4px;
+}
+
+.newTaskHeader.hideAdd {
+  display: none;
+}
+.newTaskForm {
+  display: none;
+}
+.newTaskForm.showForm {
+  display: block;
+}
+.profile-dropdown {
+  display: none;
+  flex-direction: column;
+  height: 100px;
+  width: 100px;
+  padding: .5em;
+  position: absolute;
+  top: 45px;
+  text-align: center;
+  z-index: 5;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 4px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.show {
+  display: flex;
+}
+
+.invitees {
+  margin-bottom: 2em;
+}
+
+.inviteeProfile.profile {
+  color: rgb(85, 85, 85);
+  border: 1px solid;
+  height: 30px;
+  width: 30px;
+  margin-left: 0;
+}
+.inviteeProfile.profile .profile-letter {
+  color: rgb(85, 85, 85);
+}
+
+.inviteeProfile i {
+  display: none;
+}
+
+.inviteeProfile.important i {
+  display: block;
+  position: absolute;
+  margin-top: -1.5em;
+  margin-left: 1.4em;
+  color: rgb(192, 192, 79);
+  z-index: 1;
+}
+
+.invitees .inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profileWrapper {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-right: 1em;
+}
+
+.profileWrapper:hover {
+  border: 1px solid #ECECEC;
+  background-color: #ECECEC;
+  border-radius: 4px;
+}
+
+.profileWrapper i {
+  margin-left: 5px;
+}
+
+.inviteeName {
+  align-self: center;
+  margin-left: .2em;
+}
+
+.profile-dropdown .btn {
+  margin-bottom: .5em;
+}
+
+.popover-basic > div {
+  text-align: center;
+}
+
+.assignmentToggle {
+  font-size: .7rem !important;
+  border: none!important;
+  width: auto;
+
+}
+
+.mobile {
+  display: none;
+}
+
+@media screen and (max-width: 749px) {
+  .content {
+    margin-left: 0;
+    padding: 0 1em;
+  }
+  
+  .content.responsive {
+    margin-left: 0;
+    width: 100%;
+    transition: .3s;
+  }
+
+  .event-name .hosted-by {
+    font-size: .7rem;
+  }
+
+  .edit-event .btn {
+    display: none;
+  }
+
+  .mobile {
+    display: block;
+    font-size: 1.3rem;
+    align-self: center;
+    cursor: pointer;
+  }
+
+  .event-details, .event-description {
+    font-size: .7rem;
+  }
+
+  .invitees h3 {
+    font-size: 1rem;
+    margin-bottom: 0 !important;
+    align-self: center;
+  }
+
+  .invitees .lister {
+    overflow-x: auto;
+  }
+}

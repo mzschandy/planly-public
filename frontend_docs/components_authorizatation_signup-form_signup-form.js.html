@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: components/authorizatation/signup-form/signup-form.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: components/authorizatation/signup-form/signup-form.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import {
+  Col, Card, Form, Button,
+} from 'react-bootstrap';
+
+import './signup.css';
+
+/**
+ * Class representing a SignUp Form.
+ * @extends Component
+ */
+export default class SignupForm extends Component {
+  /**
+   * Create a Signup Form
+   * @param {string} username - The username of the person creating an account.
+   * @param {string} password - The password of the person creating an account.
+   * @param {string} email - The email of the person creating an account.
+   * @param {string} first_name - The first_name of the person creating an account.
+   * @param {string} last_name - The last_name of the person creating an account.
+   */
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      username: '',
+      password: '',
+      email: '',
+      first_name: '',
+      last_name: '',
+    };
+
+    this.handleChange = this.handleChange.bind(this);
+  }
+
+  handleChange(event) {
+    const { name } = event.target;
+    const { value } = event.target;
+
+    this.setState((state) => {
+      const newState = { ...state };
+
+      newState[name] = value;
+
+      return newState;
+    });
+  }
+
+  render() {
+    return (
+      &lt;Col md={6}>
+        &lt;Card>
+          &lt;Card.Header className="text-center">Sign up&lt;/Card.Header>
+          &lt;Card.Body>
+            &lt;Form onSubmit={(event) => this.props.handle_signup(event, this.state)}>
+              &lt;Form.Row>
+                &lt;Col className="form-group">
+                  &lt;input type="text" className="form-control" name="first_name" value={this.state.first_name} onChange={this.handleChange} placeholder="Enter your first name" />
+                &lt;/Col>
+                &lt;Col className="form-group">
+                  &lt;input type="text" className="form-control" name="last_name" value={this.state.last_name} onChange={this.handleChange} placeholder="Enter your last name" />
+                &lt;/Col>
+              &lt;/Form.Row>
+              &lt;Form.Group>
+                &lt;input type="email" className="form-control" name="email" value={this.state.email} onChange={this.handleChange} placeholder="Enter your email" />
+              &lt;/Form.Group>
+              &lt;Form.Group>
+                &lt;input type="text" className="form-control" name="username" value={this.state.username} onChange={this.handleChange} placeholder="Ener a username" />
+              &lt;/Form.Group>
+              &lt;Form.Group>
+                &lt;input type="password" className="form-control" name="password" value={this.state.password} onChange={this.handleChange} placeholder="Enter a password" />
+              &lt;/Form.Group>
+              &lt;Button type="submit" className="btn-block btn-primary">Sign up&lt;/Button>
+            &lt;/Form>
+          &lt;/Card.Body>
+          &lt;div className="d-flex justify-content-center auth-switch">
+            &lt;div>
+              Have an account?
+              &lt;button type="button" onClick={() => this.props.display_form('login')} className="login-link">Log in&lt;/button>
+            &lt;/div>
+          &lt;/div>
+        &lt;/Card>
+
+        {/*
+        &lt;h1>Signup Component&lt;/h1>
+        &lt;form onSubmit={(event) => this.props.handle_signup(event, this.state)}>
+          &lt;input type="text" name="username" value={this.state.username}
+          onChange={this.handleChange} placeholder="Ener a username" />
+          &lt;input type="password" name="password" value={this.state.password}
+          onChange={this.handleChange} placeholder="Enter a password" />
+          &lt;input type="text" name="first_name" value={this.state.first_name}
+           onChange={this.handleChange} placeholder="Enter your first name" />
+          &lt;input type="text" name="last_name" value={this.state.last_name}
+          onChange={this.handleChange} placeholder="Enter your last name" />
+          &lt;input type="email" name="email" value={this.state.email}
+          onChange={this.handleChange} placeholder="Enter your email" />
+          &lt;input type="submit" />
+        &lt;/form> */}
+
+      &lt;/Col>
+    );
+  }
+}
+
+SignupForm.propTypes = {
+  handle_signup: PropTypes.func.isRequired,
+};
+</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="LoginForm.html">LoginForm</a></li><li><a href="module.exports.html">exports</a></li><li><a href="module.exports_module.exports.html">exports</a></li></ul><h3>Global</h3><ul><li><a href="global.html#checkAuth">checkAuth</a></li><li><a href="global.html#handleDetailChange">handleDetailChange</a></li><li><a href="global.html#handleNameChange">handleNameChange</a></li><li><a href="global.html#Navigation">Navigation</a></li><li><a href="global.html#PrivateRoute">PrivateRoute</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 3.6.6</a> on Wed Apr 28 2021 22:36:30 GMT-0400 (Eastern Daylight Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

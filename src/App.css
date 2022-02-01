@@ -1,0 +1,23 @@
+* {
+  color: rgb(85, 85, 85);
+}
+
+.btn {
+  background-color: transparent !important;
+  color: grey;
+  border: #fff !important;
+}
+
+.btn:hover {
+  border: 1px solid #ECECEC !important;
+  color: rgb(61, 61, 61);
+  background-color: #ECECEC !important;
+}
+
+.btn:focus {
+  color: rgb(85, 85, 85);
+}
+
+.btn i {
+  margin-right: 5px;
+}

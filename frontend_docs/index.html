@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Home</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Home</h1>
+
+    
+
+
+
+    
+
+
+    <h3> </h3>
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    <section>
+        <article><h1>BUMETCS673S21T1</h1>
+<p>Development Guide. Explanations of what's happening, how to install, and some resources</p>
+<p><img src="https://pyheroku-badge.herokuapp.com/?app=plan-ly" alt="Heroku"></p>
+<p><a href="https://plan-ly.herokuapp.com/">Heroku server</a></p>
+<hr/>
+<h2>📝Table of Contents</h2>
+<ul>
+<li><a href="#getting-started">Getting Started</a></li>
+<li><a href="#install">Install</a>
+<ul>
+<li><a href="#pulling-from-development">Pulling from Development</a></li>
+</ul>
+</li>
+<li><a href="#deployment">Deployment</a></li>
+<li><a href="#usage">Usage</a>
+<ul>
+<li><a href="#codebase-structure">Codebase Structure</a></li>
+<li><a href="#database">Database</a></li>
+</ul>
+</li>
+<li><a href="#contributing">Contributing</a>
+<ul>
+<li><a href="#adding-new-packages">Adding New Packages</a></li>
+<li><a href="#coding-guidelines">Coding Guidelines</a></li>
+<li><a href="#making-a-pull-request">Making a Pull Request</a></li>
+</ul>
+</li>
+<li><a href="#resources">Resources</a></li>
+</ul>
+<h2>🏁Getting Started</h2>
+<p>This project requires node, npm and python to be able to run React and Django. Make sure you have them installed</p>
+<h2>⚙️Install</h2>
+<h3>Setting up Django</h3>
+<pre class="prettyprint source lang-bash"><code>python -m venv venv
+venv\Scripts\activate.bat
+python -m pip install -r requirements.txt
+python manage.py runserver
+</code></pre>
+<h3>Setting up React</h3>
+<pre class="prettyprint source lang-bash"><code>npm install
+npm start
+</code></pre>
+<p>Go to backend/urls.py and comment out <code>re_path(&quot;.*&quot;, TemplateView.as_view(template_name=&quot;index.html&quot;))</code> while you are developing. Otherwise you will get TemplateNotFound errors whenever you try to access anything Django related on localhost:8000. Remember to comment it back in when you're making a pull request!</p>
+<p>Localhost:3000 should automatically open but if it doesn't navigate to http://localhost:3000 yourself</p>
+<p>The React frontend is now connected to the Django backend. You can go to localhost:8000/api/items to see how Django is handling items added to the database</p>
+<p>*If requirements.txt doesn't work or throws an error, you will need to install the required packages yourself. Go into requirements.txt and install all of the listed packages or run the following:</p>
+<pre class="prettyprint source lang-bash"><code>python -m pip install django djangorestframework django-cors-headers dj-database-url django-allauth django-heroku djongo dnspython gunicorn psycopg2 psycopg2-binary PyJWT pymongo python-dotenv whitenoise black pylint
+</code></pre>
+<p>**If you are using a mac, the script to activate venv is different. Use <code>source venv/bin/activate</code></p>
+<h3>Pulling from Development</h3>
+<p>Every time you pull a new update from the development branch, you need to check to see if there any new packages you need ot download. Run the following:</p>
+<ul>
+<li><code>npm install</code> to check for and install any new npm packages</li>
+<li><code>python -m pip install -r requirements.txt</code> to check for and install any new python packages</li>
+</ul>
+<h2>🚀Deployment</h2>
+<p>The development branch gets deployed to <a href="https://development-planly.herokuapp.com/">development-planly.herokuapp.com</a>, where all changes, fixes, and tests can be seen live before development gets merged into main.</p>
+<p>The production version of Plan.ly is deployed to <a href="https://plan-ly.herokuapp.com/">plan-ly.herokuapp.com</a>. All new features should be tested and working on <a href="https://development-planly.herokuapp.com/">development-planly</a> before they go live on <a href="https://plan-ly.herokuapp.com/">plan-ly</a></p>
+<h2>💻Usage</h2>
+<h3>Codebase Structure</h3>
+<p>These are the directories currently being used for development:</p>
+<p><strong>Backend</strong></p>
+<ul>
+<li><code>backend</code>: The main Django folder, contains <code>settings.py</code> and <code>urls.py</code></li>
+<li><code>core</code>: the core app that was created. Currently contains the user and item models, as well as <code>views.py</code></li>
+</ul>
+<p><strong>Front End</strong></p>
+<ul>
+<li><code>src</code>: contains all of the import React files</li>
+<li><code>src/components</code>: houses all of the React components</li>
+<li><code>src/App.js</code>: composition of the react app</li>
+</ul>
+<p><strong>Src/components</strong>
+All components must follow the same structure:</p>
+<pre><code>component-folder-name
+|
+|---component-name.js
+|---component.name.css
+</code></pre>
+<p><strong>Django Apps</strong>
+If you are going to create a new Django app, make sure it follows the following conventions: lowercase and words separtated with &quot;-&quot;
+e.g. <code>new-django-app</code></p>
+<p>Make sue the app is explicitly named - it should describe what the app will be responsible for.</p>
+<p>e.g. <code>todos</code>, or <code>users</code></p>
+<h3>Database</h3>
+<p>The database being used is MongoDB, and it is connected to our app with a python package called Djongo. The connection uri is in backend/settings.py and should not be touched.</p>
+<p>Djonjo is a database mapper, which means translates Django’s native sql queries to MongoDB statements. For us, that means we can use the Django model system as normal, and Djongo will translate the queries we’re making to MongoDb</p>
+<p>For example, the Item model currently exists in <code>core/models.py</code>. Instead of from Django import models, we have from djongo import models, which ensures our models are connected to djongo and will be turned into MongoDB items</p>
+<p>If you add a new class or edit any of the existing classes, make sure you migrate your changes with <code>python manage.py makemigrations</code>.</p>
+<p>Django has a built in backend interface you can access at <code>localhost:8000/admin</code>. It requires a superuser to acceess it and I have already created one. The username is 'admin' and the password is 'password'. You will be able to see a list of all the users registered and a list of all the items created, as well as some other settings.</p>
+<h2>Contributing</h2>
+<p>In order to ensure effective quality managment, when contributing to the repository:</p>
+<ul>
+<li>first pull from <code>deployment</code> to ensure you have the most recent version of deployment available</li>
+<li>Then create a new branch based on <code>deployment</code>. Do NOT create a new branch based on <code>main</code>*</li>
+<li>Your new branch should adhere to the following syntax:
+<ul>
+<li><code>/feature/feature-name</code></li>
+<li><code>/fix/fix-name</code></li>
+</ul>
+</li>
+<li>When your feature is complete, create a pull request to merge it into <code>deployment</code></li>
+<li>Once your feature is merged, you can delete your branch if you will not be using it again</li>
+</ul>
+<p>The only time you should create a branch based on <code>main</code> is if you are implementing a hotfix on the main branch</p>
+<p>Make sure you are committing code OFTEN. Essentially, whenever you complete a step in the workflow of whatever you are working on, make a commit. It'll help everyone to see your progress and if something breaks from one commit to the next, it will be easier for us (and you) to roll back to the previous commit.</p>
+<h3>Adding new packages</h3>
+<p>If you added a new npm package or python package, make sure you make note of that in your pull request. Right before you commit your code to make a pull request, run <code>python -m pip freeze &gt; requirements.txt</code>. What that does is add your package name to the requirements.txt file so that it can be installed by everyone else when they pull from development. For npm packages, they automaticaly get added to the package.json file so you don't have to worry about that.</p>
+<h3>Coding Guidelines</h3>
+<p>For code being pushed, functions should have comments that describe their purpose, making it easier for reviewers to look over pull requests.</p>
+<p>Pull requests should outline what has been added/changed in the branch being merged</p>
+<p>Your code will follow guidelines established by linters. JavaScript will follow standards set by eslint and Python will follow standards set by pylint and black.</p>
+<p>Eslint should automatically lint your file as you code (if you are using VS Code you will see any issues pop up in 'Problems'). Otherwise, you can run <code>npx eslint yourfile.js</code> or <code>yarn run eslint yourfile.js</code> to lint your file</p>
+<p>Your IDE will mostly have pylint installed in some capactiy, but if you want to check your file manually, you can run <code>pylint yourfile.py</code>, which will print out any errors, warning, or incorrect conventions. Our C/I pipeline also uses black to format Python, and you can also run <code>black yourfile.py</code> to automatically format your code.</p>
+<h3>Making a Pull Request</h3>
+<p>When you make a pull request, name your pull request appropriately and in your initial comment outline all the changes your branch makes. When the pull request is created, 2 things will happen.</p>
+<ol>
+<li>Vibhu, George, and Zach will automatically get added to your pull request to review your code.</li>
+<li>Your code will be linted, ensuring it follows all guidelines. If your code fails, you can go to the 'checks' tab of your pull request and click on 'Lint Code Base'. You will be able to read through all of your code and see where it failed</li>
+</ol>
+<p>Once your code passes the linting test and is approved by Vibhu, George, or Zach it will be merged into development.</p>
+<p>If your code fails, you will be able to continually push code to the open pull request until it passes either the linting or review. If eslint or pylint is giving you an error for something you have deliberately done, let us know in your pull request and we can talk about it.</p>
+<p>Remember to undo the <code>re_path(&quot;.*&quot;, TemplateView.as_view(template_name=&quot;index.html&quot;))</code> comment in backend/urls.py! If you forget I will ask you to add it back in the code review</p>
+<h2>📚Resources</h2>
+<p>Here are a collection of resources if you get stuck</p>
+<ul>
+<li><a href="https://reactjs.org/docs/getting-started.html">ReactJS Official Documentation</a></li>
+<li><a href="https://www.djangoproject.com/start/">Django Official Documentation</a></li>
+<li><a href="https://docs.mongodb.com/guides/">Mongo DB Documentation</a></li>
+<li><a href="https://docs.djangoproject.com/en/3.1/topics/db/models/">About Django models</a></li>
+<li><a href="https://www.djongomapper.com/">Djongo Documentation</a></li>
+<li><a href="https://reactrouter.com/">Routing for React</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/react-axios-react">A solid overview of using React + Axios to make requests</a></li>
+</ul></article>
+    </section>
+
+
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="LoginForm.html">LoginForm</a></li><li><a href="module.exports.html">exports</a></li><li><a href="module.exports_module.exports.html">exports</a></li></ul><h3>Global</h3><ul><li><a href="global.html#checkAuth">checkAuth</a></li><li><a href="global.html#handleDetailChange">handleDetailChange</a></li><li><a href="global.html#handleNameChange">handleNameChange</a></li><li><a href="global.html#Navigation">Navigation</a></li><li><a href="global.html#PrivateRoute">PrivateRoute</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 3.6.6</a> on Wed Apr 28 2021 22:36:30 GMT-0400 (Eastern Daylight Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

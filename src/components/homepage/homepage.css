@@ -1,0 +1,57 @@
+.hero {
+    height: 700px;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(195, 207, 217, 0)), to(#c3cfd9));
+    background-image: linear-gradient(to top, rgba(195, 207, 217, 0), #c3cfd9);
+    position: relative;
+  }
+  
+  .hero .hero-inner {
+    vertical-align: center;
+  }
+  
+  .hero .title {
+    font-size: 3.5rem;
+  }
+  
+  .hero .description {
+    font-size: 1.5rem;
+  }
+  
+  .hero .site-description {
+    margin: auto 0;
+  }
+
+  svg {
+    height: 400px;
+    width: 400px;
+  }
+
+  .screenshot {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+  
+  #product {
+    margin: 2em 0;
+  }
+  
+  .section-details {
+    margin: 1em 0;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  
+  .section-details .cta {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 1em 0;
+  }
+
+  .section-details.one-half {
+    align-self: center;
+  }

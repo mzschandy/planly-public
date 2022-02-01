@@ -1,0 +1,288 @@
+.cta-button {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+.events-scroller {
+    position: relative;
+    width: 100%;
+}
+
+.events-scroller .scroller-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #c3cfd9;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 1em 1em;
+}
+
+#dashboard {
+    margin-top: 5em;
+    opacity: .4;
+}
+
+#dashboard .task-list {
+    margin: 1em 0;
+}
+
+#dashboard .task-list .title {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#dashboard .task {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+#dashboard .task input {
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+    margin-right: 5px;
+}
+
+#dashboard .update {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+
+#dashboard .update .origin {
+    font-size: 14px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.dashboardItems {
+    margin: 2em auto 0;
+    max-width: 1100px;
+}
+
+.fc {
+    max-width: 1100px;
+}
+
+.content {
+    margin-left: 300px;
+    background-color: #FFFFFF;
+    transition: .2s;
+    width: 100%;
+    padding: 0 3em 1em 3em;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.content.responsive {
+    margin-left: 0;
+    width: 100%;
+    transition: .3s;
+}
+
+.dashboardHeader {
+    margin: 1.5em auto 1em;
+}
+
+.dashboardHeader .innerLeft {
+    display: flex;
+}
+
+.dashboardHeader .innerLeft div {
+    align-self: center;
+    margin-left: 1em;
+}
+
+.dashboardEvents {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin: 0 auto;
+    max-width: 1100px;
+}
+
+.dashboardEvents .event {
+    margin: 1em .5em;
+}
+
+.dashboardEvents .name {
+    font-weight: 800;
+    font-size: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+}
+
+.dashboardEvents .inner {
+    padding: 1em;
+    width: 250px;
+    height: 150px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    color: #fff;
+}
+
+.dashboardEvents .event:nth-child(5n+1) .inner {
+    background-color: #F2CDC1;
+    border: 1px solid #F2CDC1;
+}
+
+.dashboardEvents .event:nth-child(5n+2) .inner {
+    background-color: #C1E3F2;
+    border: 1px solid #C1E3F2;
+}
+
+.dashboardEvents .event:nth-child(5n+3) .inner {
+    background-color: #C1F2D0;
+    border: 1px solid #C1F2D0;
+}
+
+.dashboardEvents .event:nth-child(5n+4) .inner {
+    background-color: #F2D796;
+    border: 1px solid #F2D796;
+}
+
+.dashboardEvents .event:nth-child(5n+5) .inner {
+    background-color: #e6abf5;
+    border: 1px solid #e6abf5;
+}
+
+.dashboardEvents .inner:hover {
+    transform: translateY(-.5em);
+    transition: transform .3s;
+}
+
+.dashboardEvents .hostedBy {
+    font-size: .6rem;
+    color: #fff
+}
+
+.dashboardEvents i {
+    font-size: 16px;
+    color: #fff;
+}
+
+.dashboardEvents a {
+    text-decoration: none;
+}
+
+.tasksPane,
+.updatesPane {
+    transition: .3s;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.tasksPane:hover,
+.updatesPane:hover {
+    border: 1px solid rgba(43, 43, 43, 0.125);
+    border-radius: 4px;
+    padding: 1em;
+    z-index: 1;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+#e2165270-d70d-4354-9ac9-1848d055b0c2 {
+    height: 125px;
+    width: 125px;
+}
+
+@media screen and (max-width: 749px) {
+    #e2165270-d70d-4354-9ac9-1848d055b0c2 {
+        height: 100px;
+        width: 100px;
+    }
+    .dashboardHeader h1 {
+        font-size: 1.3em;
+    }
+    .dashboardHeader h5 {
+        font-size: .8em;
+        font-weight: 400;
+    }
+    .dashboardHeader .innerLeft {
+        justify-content: center;
+    }
+
+    .dashboardEvents {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 1100px;
+    }
+
+    .dashboardEvents .event {
+        margin: 0;
+        margin-bottom: 1em;
+    }
+
+    .dashboardEvents .inner {
+        padding: 1em;
+        font-size: .5em;
+        width: 95%;
+        height: auto;
+    }
+
+    .tasksPane h4, .updatesPane h4 {
+        font-size: 1rem;
+    }
+
+    .dashboardItems {
+        margin-top: 2em;
+        max-width: 1100px;
+    }
+
+    .dashboardHeader .col:last-child {
+        display: none;
+    }
+
+    .dashboardHeader .btn {
+        position: fixed;
+        width: 70px !important;
+        height: 70px !important;
+        border: 1px solid #026AA7 !important;
+        border-radius: 50% !important;
+        background-color: #026AA7 !important;
+        bottom: 10px;
+        z-index: 10;
+        right: 10px;
+        color: #fff;
+        box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2) !important;
+    }
+
+    .dashboardHeader .btn > div {
+        display: none;
+    }
+
+    .dashboardHeader .btn:before {
+        content: ' \002B';
+        font-size: 4rem;
+        position: absolute;
+        top: -20%;
+        left: 16px;
+    }
+
+}

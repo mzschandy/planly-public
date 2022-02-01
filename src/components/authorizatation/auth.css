@@ -1,0 +1,13 @@
+#authorization {
+    margin-top: 8%;
+}
+
+.auth-switch {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.sign-up-link, .login-link {
+    color: blue;
+    text-decoration: underline;
+}

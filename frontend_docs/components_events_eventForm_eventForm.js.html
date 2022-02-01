@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: components/events/eventForm/eventForm.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: components/events/eventForm/eventForm.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>import React, { Component } from 'react';
+import Cookies from 'js-cookie';
+import {
+  Modal, Form, Alert, Button,
+} from 'react-bootstrap';
+import moment from 'moment';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faEdit } from '@fortawesome/free-solid-svg-icons';
+
+async function httpReq(url = '', data2 = {}, verb) {
+  // Default options are marked with *
+  const csrftoken = Cookies.get('csrftoken');
+  const response = await fetch(url, {
+    method: verb, // *GET, POST, PUT, DELETE, etc.
+    headers: {
+      Authorization: `JWT ${localStorage.getItem('token')}`,
+      'X-CSRFToken': csrftoken,
+      'Content-Type': 'application/json',
+    },
+    credentials: 'same-origin',
+    body: JSON.stringify(data2), // body data type must match "Content-Type" header
+  });
+  return response.json(); // parses JSON response into native JavaScript objects
+}
+
+// async function postData(url = '', data2 = {}) {
+//   // Default options are marked with *
+//   const csrftoken = Cookies.get('csrftoken');
+//   console.log(data2);
+//   const response = await fetch(url, {
+//     method: 'POST', // *GET, POST, PUT, DELETE, etc.
+//     headers: {
+//       Authorization: `JWT ${localStorage.getItem('token')}`,
+//       'X-CSRFToken': csrftoken,
+//       'Content-Type': 'application/json',
+//     },
+//     credentials: 'same-origin',
+//     body: JSON.stringify(data2), // body data type must match "Content-Type" header
+//   });
+//   return response.json(); // parses JSON response into native JavaScript objects
+// }
+
+export default class EventForm extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      name: '',
+      detail: '',
+      isOpen: false,
+      event_form_data: props.event ? props.event : {},
+      incomplete_alert: null,
+      user_id: this.props.userId,
+      edit_mode: this.props.event !== undefined,
+    };
+    // console.log(this.state);
+    // this.handleNameChange = this.handleNameChange.bind(this);
+    // this.handleDetailChange = this.handleDetailChange.bind(this);
+    // this.handleSubmit = this.handleSubmit.bind(this);
+    this.handleEventCreationForm = this.handleEventCreationForm.bind(this);
+    this.processEvent = this.processEvent.bind(this);
+    this.closeModal = this.closeModal.bind(this);
+    this.openModal = this.openModal.bind(this);
+  }
+
+  componentDidMount() {
+    this.setState({ user_id: this.props.userId }, () => {
+      console.log(this.state);
+    });
+    // if (typeof this.props.event !== 'undefined') {
+    //   this.setState({ event_form_data: this.props.event });
+    // }
+    // console.log(this.state.edit_mode);
+  }
+
+  /**
+   * whenever a change is made to the detail input, update the this.state.detail
+   * @param {string} detail - The detail of the item ????.
+   */
+  handleDetailChange(event) {
+    this.setState({
+      detail: event.target.value,
+    });
+  }
+
+  handleEventCreationForm(event) {
+    this.setState((previousState) => ({
+      event_form_data: {
+        ...previousState.event_form_data,
+        [event.target.name]: event.target.value,
+      },
+    }));
+  }
+
+  /**
+   * whenever a change is made to the name input, update the this.state.name
+   * @param {string} name - The ????.
+   */
+  handleNameChange(event) {
+    this.setState({
+      name: event.target.value,
+    });
+  }
+
+  // when the from is submitted, send it do the backend api to be added to the database
+  handleSubmit(event) {
+    event.preventDefault();
+
+    const csrftoken = Cookies.get('csrftoken');
+
+    const newItem = {
+      name: this.state.name,
+      detail: this.state.detail,
+    };
+    // console.log(newItem);
+    // console.log(JSON.stringify(newItem));
+    fetch('/api/items/', {
+      method: 'POST',
+      headers: {
+        'X-CSRFToken': csrftoken,
+        'Content-Type': 'application/json',
+        Authorization: `JWT ${localStorage.getItem('token')}`,
+      },
+      credentials: 'same-origin',
+      body: JSON.stringify(newItem),
+    }).then((res) => {
+      console.log('res.json', res.json());
+    }).then((data) => {
+      console.log('data', data);
+      // reset the state to blank values
+      this.setState({
+        name: '',
+        detail: '',
+      });
+      window.location.reload();
+    });
+  }
+
+  validateStartDate(start) {
+    const startDate = moment(start, 'YYYY-MM-DD');
+    const dateNow = moment();
+
+    if (!startDate.isValid()) {
+      this.setState({
+        incomplete_alert: 'Start date is not in a valid format.',
+      });
+      return 0;
+    }
+    if (startDate &lt; dateNow) {
+      this.setState({
+        incomplete_alert: 'Start date cannot be before today.',
+      });
+      return 0;
+    }
+    return 1;
+  }
+
+  validateEndDate(end, start) {
+    const endDate = moment(end, 'YYYY-MM-DD');
+    const startDate = moment(start, 'YYYY-MM-DD');
+    const dateNow = moment();
+
+    if (!endDate.isValid()) {
+      this.setState({
+        incomplete_alert: 'End date is not in a valid format.',
+      });
+      return 0;
+    }
+    if (endDate &lt; startDate) {
+      this.setState({
+        incomplete_alert: 'End date cannot be before start date.',
+      });
+      return 0;
+    }
+    if (endDate &lt; dateNow) {
+      this.setState({
+        incomplete_alert: 'End date cannot be before today.',
+      });
+      return 0;
+    }
+    return 1;
+  }
+
+  closeModal() {
+    this.setState({ isOpen: false });
+  }
+
+  openModal() {
+    this.setState({ isOpen: true });
+  }
+
+  // Example POST method implementation:
+  async processEvent() {
+    let flag = 0;
+    const formFields = ['startDate', 'endDate', 'location', 'description', 'name'];
+    formFields.forEach((field) => {
+      if (!(field in this.state.event_form_data) || this.state.event_form_data[field] === '') {
+        this.setState({
+          incomplete_alert: `${field} is required`,
+        });
+        flag = 1;
+      }
+    });
+
+    const start = this.state.event_form_data.startDate;
+    const end = this.state.event_form_data.endDate;
+    if (!this.validateStartDate(start) || !this.validateEndDate(end, start)) {
+      flag = 1;
+    }
+    if (flag === 0) {
+      const temp = this.state.event_form_data;
+      temp.user_id = this.state.user_id;
+      this.setState({ incomplete_alert: null });
+      let endpoint;
+      let verb;
+      if (this.state.edit_mode) {
+        endpoint = `/api/event/${this.state.event_form_data.eventId}/`;
+        verb = 'PATCH';
+      } else {
+        endpoint = '/api/event/';
+        verb = 'POST';
+      }
+      const so = await httpReq(endpoint, temp, verb);
+      if (so.status === '1') {
+        this.closeModal();
+        if (this.state.edit_mode) {
+          this.props.doneFunction(this.state.event_form_data);
+        } else {
+          this.setState({
+            event_form_data: {},
+          });
+          this.props.doneFunction(this.state.user_id);
+        }
+      }
+    }
+  }
+
+  render() {
+    return (
+      &lt;div>
+        &lt;Button
+          variant={this.state.edit_mode ? 'outline-primary' : 'primary'}
+          onClick={this.openModal}
+        >
+          {this.state.edit_mode
+            ? (
+              &lt;span>
+                &lt;i className="fa fa-edit" />
+                {' '}
+                Edit Event Details
+              &lt;/span>
+            )
+            : (
+              &lt;div>
+                &lt;i className="fa fa-plus" />
+                Add New Event
+              &lt;/div>
+            )}
+        &lt;/Button>
+        &lt;i className="fa fa-edit mobile" />
+        { this.state.isOpen ? (
+          &lt;Modal show={this.state.isOpen} onHide={this.closeModal}>
+            &lt;Modal.Header closeButton>
+              &lt;Modal.Title>{this.state.edit_mode ? 'Edit Event Details' : 'Create New Event'}&lt;/Modal.Title>
+            &lt;/Modal.Header>
+            {this.state.incomplete_alert ? &lt;Alert variant="danger">{this.state.incomplete_alert}&lt;/Alert>
+              : null}
+            &lt;Modal.Body>
+              &lt;Form>
+                &lt;Form.Group>
+                  &lt;Form.Label>Name&lt;/Form.Label>
+                  &lt;Form.Control type="text" name="name" defaultValue={this.state.event_form_data ? this.state.event_form_data.name : ''} placeholder="Enter an Event Name." onChange={this.handleEventCreationForm} />
+                &lt;/Form.Group>
+                &lt;Form.Group>
+                  &lt;Form.Label>Description&lt;/Form.Label>
+                  &lt;Form.Control as="textarea" rows={3} name="description" defaultValue={this.state.event_form_data ? this.state.event_form_data.description : ''} placeholder="Enter Description of event." onChange={this.handleEventCreationForm} />
+                &lt;/Form.Group>
+                &lt;Form.Group>
+                  &lt;Form.Label>Location&lt;/Form.Label>
+                  &lt;Form.Control type="text" name="location" defaultValue={this.state.event_form_data ? this.state.event_form_data.location : ''} placeholder="Enter Location for event." onChange={this.handleEventCreationForm} />
+                &lt;/Form.Group>
+                &lt;Form.Group>
+                  &lt;Form.Label>Start date&lt;/Form.Label>
+                  &lt;Form.Control type="date" name="startDate" defaultValue={this.state.event_form_data ? this.state.event_form_data.startDate : ''} placeholder="Enter Start date for event.(mm/dd/yyyy)" onChange={this.handleEventCreationForm} />
+                &lt;/Form.Group>
+                &lt;Form.Group>
+                  &lt;Form.Label>End date&lt;/Form.Label>
+                  &lt;Form.Control type="date" name="endDate" defaultValue={this.state.event_form_data ? this.state.event_form_data.endDate : ''} placeholder="Enter End date for event.(mm/dd/yyyy)" onChange={this.handleEventCreationForm} />
+                &lt;/Form.Group>
+              &lt;/Form>
+            &lt;/Modal.Body>
+            &lt;Modal.Footer>
+              &lt;Button variant="secondary" onClick={this.closeModal}>
+                Close
+              &lt;/Button>
+              &lt;Button variant="primary" onClick={this.processEvent}>
+                {this.state.event_form_data ? 'Save' : 'Create Event'}
+              &lt;/Button>
+            &lt;/Modal.Footer>
+          &lt;/Modal>
+        ) : null}
+      &lt;/div>
+    );
+  }
+}
+</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="LoginForm.html">LoginForm</a></li><li><a href="module.exports.html">exports</a></li><li><a href="module.exports_module.exports.html">exports</a></li></ul><h3>Global</h3><ul><li><a href="global.html#checkAuth">checkAuth</a></li><li><a href="global.html#handleDetailChange">handleDetailChange</a></li><li><a href="global.html#handleNameChange">handleNameChange</a></li><li><a href="global.html#Navigation">Navigation</a></li><li><a href="global.html#PrivateRoute">PrivateRoute</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 3.6.6</a> on Wed Apr 28 2021 22:36:30 GMT-0400 (Eastern Daylight Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

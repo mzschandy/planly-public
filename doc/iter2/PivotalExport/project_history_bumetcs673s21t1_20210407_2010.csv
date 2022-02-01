@@ -1,0 +1,1008 @@
+ID,Type,Message,Performed By,Occurred At
+177658292,story_update_activity,Aysha Zenab Kenza edited this bug,Aysha Zenab Kenza,2021-04-07T05:01:29Z
+177658292,story_create_activity,Aysha Zenab Kenza added this bug,Aysha Zenab Kenza,2021-04-07T05:00:30Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-04-07T04:54:29Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-04-07T04:54:22Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-04-07T04:54:18Z
+176936476,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-04-07T04:54:04Z
+176936476,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-04-07T04:53:58Z
+176936476,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-04-07T04:53:48Z
+177521993,story_update_activity,ckulig started this chore,ckulig,2021-04-07T03:25:07Z
+177521967,story_update_activity,ckulig delivered this bug,ckulig,2021-04-07T03:08:20Z
+177521967,story_update_activity,ckulig finished this bug,ckulig,2021-04-07T03:08:17Z
+176952235,story_delete_activity,George Wright deleted this feature,George Wright,2021-04-06T02:34:13Z
+177521955,story_update_activity,George Wright accepted this bug,George Wright,2021-04-06T02:33:07Z
+177521955,story_update_activity,George Wright delivered this bug,George Wright,2021-04-06T02:33:06Z
+177521955,story_update_activity,George Wright finished this bug,George Wright,2021-04-06T02:33:06Z
+177521955,story_update_activity,George Wright started this bug,George Wright,2021-04-06T02:33:05Z
+177521979,story_update_activity,George Wright accepted this chore,George Wright,2021-04-06T02:32:40Z
+177521979,story_update_activity,George Wright started this chore,George Wright,2021-04-06T02:32:38Z
+177620089,story_update_activity,George Wright accepted this bug,George Wright,2021-04-06T02:32:18Z
+177620089,story_update_activity,George Wright delivered this bug,George Wright,2021-04-06T02:32:17Z
+177620089,story_update_activity,George Wright finished this bug,George Wright,2021-04-06T02:32:14Z
+177620089,story_update_activity,George Wright started this bug,George Wright,2021-04-06T02:32:06Z
+177637407,story_update_activity,George Wright accepted this bug,George Wright,2021-04-06T02:31:55Z
+177637407,story_update_activity,George Wright delivered this bug,George Wright,2021-04-06T02:31:54Z
+177637407,story_update_activity,George Wright finished this bug,George Wright,2021-04-06T02:31:53Z
+177637407,story_update_activity,George Wright started this bug,George Wright,2021-04-06T02:31:50Z
+177521965,story_update_activity,George Wright accepted this bug,George Wright,2021-04-06T02:31:34Z
+177521965,story_update_activity,George Wright delivered this bug,George Wright,2021-04-06T02:31:29Z
+177521965,story_update_activity,George Wright finished this bug,George Wright,2021-04-06T02:31:19Z
+176879628,story_update_activity,George Wright accepted this feature,George Wright,2021-04-06T02:30:43Z
+176879628,task_update_activity,"George Wright completed task: ""Integrate and do testing - 1h""",George Wright,2021-04-06T02:30:40Z
+176879628,task_update_activity,"George Wright completed task: ""Write unit tests - 1h""",George Wright,2021-04-06T02:30:38Z
+176879628,task_update_activity,"George Wright completed task: ""Create logic to add the event to the database - 2h""",George Wright,2021-04-06T02:30:37Z
+176879628,task_update_activity,"George Wright completed task: ""Add all caracteristics to class - 0.5h""",George Wright,2021-04-06T02:30:36Z
+176879628,task_update_activity,"George Wright completed task: ""Create the event in the database - 0.5h""",George Wright,2021-04-06T02:30:35Z
+176879628,task_update_activity,"George Wright completed task: ""Create a new event class - 0.5h""",George Wright,2021-04-06T02:30:33Z
+176879628,task_update_activity,"George Wright completed task: ""Create the UI create event page - 2h""",George Wright,2021-04-06T02:30:33Z
+176879628,story_update_activity,George Wright delivered this feature,George Wright,2021-04-06T02:29:52Z
+176879631,story_update_activity,George Wright accepted this feature,George Wright,2021-04-06T02:29:23Z
+176949922,story_update_activity,George Wright accepted this feature,George Wright,2021-04-06T02:26:35Z
+176949922,task_update_activity,"George Wright completed task: ""-test the sign up flow - 1h""",George Wright,2021-04-06T02:26:22Z
+176949922,task_update_activity,"George Wright completed task: ""-Write unit tests -1h""",George Wright,2021-04-06T02:26:20Z
+176949922,story_update_activity,George Wright delivered this feature,George Wright,2021-04-06T02:25:44Z
+177637407,story_create_activity,George Wright added this bug,George Wright,2021-04-06T01:45:00Z
+177521993,story_update_activity,ckulig accepted this chore,ckulig,2021-04-06T01:44:09Z
+176879638,story_update_activity,ckulig delivered this feature,ckulig,2021-04-06T01:43:58Z
+176879638,story_update_activity,ckulig finished this feature,ckulig,2021-04-06T01:43:55Z
+176953068,story_update_activity,ckulig accepted this feature,ckulig,2021-04-06T01:43:21Z
+176953068,story_update_activity,ckulig delivered this feature,ckulig,2021-04-06T01:43:19Z
+176953068,story_update_activity,ckulig finished this feature,ckulig,2021-04-06T01:43:05Z
+176879375,story_update_activity,ckulig accepted this feature,ckulig,2021-04-06T01:42:54Z
+176879375,task_update_activity,"ckulig completed task: ""Unit test - 1.5h""",ckulig,2021-04-06T01:42:43Z
+176879375,task_update_activity,"ckulig completed task: ""Create the React UI that will display the users event information - 1.5h""",ckulig,2021-04-06T01:42:39Z
+176879375,task_update_activity,"ckulig completed task: ""Create an event table in the database - .5h""",ckulig,2021-04-06T01:42:38Z
+176879375,task_update_activity,"ckulig completed task: ""Create the event class - .5h""",ckulig,2021-04-06T01:42:35Z
+176879375,task_update_activity,"ckulig completed task: ""Create the user in the database - .5h""",ckulig,2021-04-06T01:42:34Z
+176879375,task_update_activity,"ckulig completed task: ""Create user class - .5h""",ckulig,2021-04-06T01:42:32Z
+176879375,story_update_activity,ckulig delivered this feature,ckulig,2021-04-06T01:42:20Z
+176879375,story_update_activity,ckulig finished this feature,ckulig,2021-04-06T01:42:17Z
+177620089,story_create_activity,George Wright added this bug,George Wright,2021-04-05T01:43:59Z
+177617227,story_create_activity,Karen Sommer added this bug,Karen Sommer,2021-04-03T23:15:20Z
+176879638,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-04-03T18:43:14Z
+176953068,task_update_activity,"ckulig completed task: ""Other core structural items are handled in ""View feed of events"" #176879375.""",ckulig,2021-04-03T18:41:19Z
+176953068,task_update_activity,"ckulig completed task: ""Unit Test -.5 hr""",ckulig,2021-04-03T18:41:18Z
+176953068,task_update_activity,"ckulig uncompleted task: ""Unit Test -.5 hr""",ckulig,2021-04-03T18:41:15Z
+176953068,task_update_activity,"ckulig completed task: ""Unit Test -.5 hr""",ckulig,2021-04-03T18:41:12Z
+176953068,task_update_activity,"ckulig completed task: ""In React within the list of events in the feed link individual events to the event details page - .5h""",ckulig,2021-04-03T18:41:09Z
+176879631,task_update_activity,"ckulig completed task: ""Integrate and do testing - 1h""",ckulig,2021-04-03T18:28:59Z
+176879631,task_update_activity,"ckulig uncompleted task: ""Integrate and do testing - 1h""",ckulig,2021-04-03T18:28:23Z
+176879631,task_update_activity,"ckulig completed task: ""Integrate and do testing - 1h""",ckulig,2021-04-03T18:28:11Z
+176879631,task_update_activity,"ckulig uncompleted task: ""Integrate and do testing - 1h""",ckulig,2021-04-03T18:28:10Z
+176879631,task_update_activity,"ckulig completed task: ""Integrate and do testing - 1h""",ckulig,2021-04-03T18:28:09Z
+176879631,task_update_activity,"ckulig completed task: ""Write unit tests - 1h""",ckulig,2021-04-03T18:28:07Z
+176879631,task_update_activity,"ckulig completed task: ""Create logic to bring all the current events - 1h""",ckulig,2021-04-03T18:28:03Z
+176879631,task_update_activity,"ckulig completed task: ""Create the UI view my current events page - 1h""",ckulig,2021-04-03T18:27:58Z
+176879523,story_update_activity,ckulig accepted this feature,ckulig,2021-04-03T18:25:46Z
+176879523,task_update_activity,"ckulig completed task: ""test the log in flow -1h""",ckulig,2021-04-03T18:25:42Z
+176879523,task_update_activity,"ckulig completed task: ""write user tests - 1h""",ckulig,2021-04-03T18:25:41Z
+176879523,story_update_activity,ckulig delivered this feature,ckulig,2021-04-03T18:25:26Z
+176879523,comment_delete_activity,"ckulig removed comment: ""Given I am a registered user when I go to the web page and there is a user name/password field(s) available and a log in button, I am then able to securely access the web page.""",ckulig,2021-04-03T18:24:13Z
+177521965,story_update_activity,Zach Schandorf-Lartey started this bug,Zach Schandorf-Lartey,2021-04-03T18:16:15Z
+177521955,story_update_activity,Zach Schandorf-Lartey edited this bug,Zach Schandorf-Lartey,2021-04-03T18:16:11Z
+177521965,story_update_activity,Zach Schandorf-Lartey edited this bug,Zach Schandorf-Lartey,2021-04-03T18:15:37Z
+176949922,story_update_activity,ckulig edited this feature,ckulig,2021-04-03T18:15:00Z
+176879523,comment_delete_activity,"Zach Schandorf-Lartey removed comment: ""Given the google authentication window is available, when the user selects their google account and an account in Plan.ly exists, the web app will display the user's feed""",Zach Schandorf-Lartey,2021-04-03T18:14:37Z
+176879523,comment_delete_activity,"Zach Schandorf-Lartey removed comment: ""Given the login page and that a user is registered, when the user clicks on the ""login with Google"" button, a popup window will open, asking the user will be asked to authenticate themselves with their google account""",Zach Schandorf-Lartey,2021-04-03T18:14:33Z
+176949922,comment_delete_activity,"Zach Schandorf-Lartey removed comment: ""Given that that the user has entered in their accout information and clicks the ""continue"" button, their account will have been created and they will be taken to their feed
+""",Zach Schandorf-Lartey,2021-04-03T18:14:17Z
+176949922,comment_delete_activity,"Zach Schandorf-Lartey removed comment: ""Given that the account creation window is available, the user will be asked to enter their name, email, and phone number
+""",Zach Schandorf-Lartey,2021-04-03T18:14:14Z
+176949922,comment_delete_activity,"Zach Schandorf-Lartey removed comment: ""Given the google authentication window is avialable, when the user selects their google account, they will be taken to a new window to continue the accout creation process
+""",Zach Schandorf-Lartey,2021-04-03T18:14:11Z
+176949922,comment_delete_activity,"Zach Schandorf-Lartey removed comment: ""Given the login page and that a user is not registered, when the user clicks on the ""login with Google"" button, a popup window will open, asking the user to select a Google account to use with the app
+""",Zach Schandorf-Lartey,2021-04-03T18:14:07Z
+177616801,story_create_activity,vibs97 added this bug,vibs97,2021-04-03T18:10:11Z
+177521993,story_update_activity,ckulig started this chore,ckulig,2021-04-03T18:08:15Z
+177616795,story_create_activity,vibs97 added this bug,vibs97,2021-04-03T18:08:05Z
+177521967,story_update_activity,ckulig started this bug,ckulig,2021-04-03T03:10:45Z
+177521993,story_update_activity,ckulig edited this chore,ckulig,2021-04-01T02:26:15Z
+177521993,story_create_activity,George Wright added this chore,George Wright,2021-03-27T21:19:17Z
+177521979,story_update_activity,George Wright edited this chore,George Wright,2021-03-27T21:13:01Z
+177521979,story_create_activity,George Wright added this chore,George Wright,2021-03-27T21:12:54Z
+177521972,story_create_activity,George Wright added this chore,George Wright,2021-03-27T21:10:35Z
+177521967,story_update_activity,George Wright edited this bug,George Wright,2021-03-27T21:08:45Z
+177521967,story_update_activity,George Wright edited this bug,George Wright,2021-03-27T21:08:10Z
+177521967,story_update_activity,George Wright edited this bug,George Wright,2021-03-27T21:07:13Z
+177521967,story_update_activity,George Wright edited this bug,George Wright,2021-03-27T21:07:07Z
+177521967,story_create_activity,George Wright added this bug,George Wright,2021-03-27T21:07:02Z
+177521965,story_create_activity,George Wright added this bug,George Wright,2021-03-27T21:06:07Z
+177521955,story_create_activity,George Wright added this bug,George Wright,2021-03-27T21:02:39Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-03-27T21:01:49Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-03-27T21:01:44Z
+176879375,story_update_activity,George Wright started this feature,George Wright,2021-03-27T19:29:00Z
+176953068,story_update_activity,George Wright started this feature,George Wright,2021-03-27T19:28:58Z
+176879638,story_update_activity,George Wright started this feature,George Wright,2021-03-27T19:28:40Z
+176879628,story_update_activity,George Wright finished this feature,George Wright,2021-03-27T19:28:35Z
+176879628,story_update_activity,George Wright started this feature,George Wright,2021-03-27T19:28:29Z
+176952235,story_move_activity,George Wright moved this story before 'Event Owner -- Edit Co-owner(s)',George Wright,2021-03-27T19:28:13Z
+176879631,story_update_activity,George Wright delivered this feature,George Wright,2021-03-27T19:28:11Z
+176879631,story_update_activity,George Wright finished this feature,George Wright,2021-03-27T19:27:24Z
+176879631,story_update_activity,George Wright started this feature,George Wright,2021-03-27T19:27:22Z
+176879523,story_update_activity,George Wright finished this feature,George Wright,2021-03-27T19:27:21Z
+176949922,story_update_activity,George Wright finished this feature,George Wright,2021-03-27T19:27:19Z
+176936657,story_move_activity,George Wright moved this story before 'Create a private event',George Wright,2021-03-20T19:02:06Z
+176936634,story_move_activity,George Wright moved this story before 'Event Owner -- Edit Event Description',George Wright,2021-03-20T19:01:56Z
+176952235,story_move_activity,George Wright moved this story before 'View feed of events',George Wright,2021-03-20T19:01:55Z
+176936657,story_move_activity,George Wright moved this story before 'View feed of events',George Wright,2021-03-20T19:01:52Z
+176879628,story_move_activity,George Wright moved this story before 'Create Invite List',George Wright,2021-03-20T19:01:50Z
+176879631,story_move_activity,George Wright moved this story before 'Event Owner -- Edit Co-owner(s)',George Wright,2021-03-20T19:01:33Z
+176952196,story_move_activity,George Wright moved this story before 'View my current private events',George Wright,2021-03-20T19:01:24Z
+176952196,story_move_activity,George Wright moved this story before 'Create Invite List',George Wright,2021-03-20T19:01:14Z
+176936476,story_move_activity,George Wright moved this story before 'Event Owner -- Edit Co-owner(s)',George Wright,2021-03-20T19:01:10Z
+176879631,story_move_activity,George Wright moved this story before 'Event Owner -- Edit Co-owner(s)',George Wright,2021-03-20T19:01:07Z
+176879375,story_move_activity,George Wright moved this story before 'History private events',George Wright,2021-03-20T19:01:01Z
+176949922,story_update_activity,George Wright started this feature,George Wright,2021-03-20T18:59:57Z
+176879523,story_update_activity,George Wright started this feature,George Wright,2021-03-20T18:59:49Z
+176949922,story_update_activity,Zach Schandorf-Lartey accepted this feature,Zach Schandorf-Lartey,2021-03-20T18:59:20Z
+176879523,story_update_activity,Zach Schandorf-Lartey accepted this feature,Zach Schandorf-Lartey,2021-03-20T18:59:18Z
+176879523,story_update_activity,Zach Schandorf-Lartey delivered this feature,Zach Schandorf-Lartey,2021-03-20T18:59:13Z
+176949922,story_update_activity,Zach Schandorf-Lartey delivered this feature,Zach Schandorf-Lartey,2021-03-20T18:59:12Z
+176949922,story_update_activity,Zach Schandorf-Lartey finished this feature,Zach Schandorf-Lartey,2021-03-20T18:59:10Z
+176879523,story_update_activity,Zach Schandorf-Lartey finished this feature,Zach Schandorf-Lartey,2021-03-20T18:59:09Z
+,iteration_update_activity,George Wright changed iteration 2's length from default to 3 weeks,George Wright,2021-03-20T18:56:34Z
+176952196,story_move_activity,George Wright moved this story before 'View my current private events',George Wright,2021-03-20T18:55:09Z
+176879631,story_move_activity,George Wright moved and scheduled this story before 'Event Owner -- Edit Co-owner(s)',George Wright,2021-03-20T18:54:28Z
+176895607,story_move_activity,George Wright moved and scheduled this story before 'Email notification of event invitation',George Wright,2021-03-20T18:54:14Z
+176936476,story_move_activity,George Wright moved and scheduled this story before 'Email notification of event invitation',George Wright,2021-03-20T18:54:06Z
+176936634,story_move_activity,George Wright moved and scheduled this story before 'Event Owner -- Edit Event Description',George Wright,2021-03-20T18:53:59Z
+176952196,story_move_activity,George Wright moved and scheduled this story before 'Event Owner -- Edit Event Description',George Wright,2021-03-20T18:52:39Z
+176952235,story_move_activity,George Wright moved and scheduled this story before 'Receive Account Creation Email Notification',George Wright,2021-03-20T18:52:20Z
+177135332,story_update_activity,Zach Schandorf-Lartey accepted this chore,Zach Schandorf-Lartey,2021-03-14T21:33:32Z
+176949922,comment_create_activity,George Wright added file Pasted Image at 2021_03_07_12_48 pm.png,George Wright,2021-03-07T18:48:31Z
+176949922,task_update_activity,"George Wright rewrote task: ""-Add the logic to connect our app to Google - .5h (no longer needed)""",George Wright,2021-03-07T18:46:10Z
+176949922,task_update_activity,"George Wright rewrote task: ""-Create a google app that our web app will connect to - .5h (No longer needed)""",George Wright,2021-03-07T18:46:04Z
+176879523,task_update_activity,"George Wright rewrote task: ""if the user does not exist, create logic to create user account in mongo database with the provided name/email/password  -3h""",George Wright,2021-03-07T18:45:39Z
+176879523,comment_create_activity,"George Wright added comment with attachment: ""Mockup for homepage/login form""",George Wright,2021-03-07T18:45:00Z
+176949922,comment_create_activity,"George Wright added comment: ""Given I am a website user who has clicked ""Sign Up"" after loading the Plan.ly homepage, when I click the ""Go Back"" button, I am returned to the login form.""",George Wright,2021-03-07T18:22:42Z
+176949922,comment_create_activity,"George Wright added comment: ""Given I am a website user, when I attempt to register for a new user account having filled in name, password, and a correctly-formatted email address that has not previously been used to create another account, then I am redirected to my user dashboard page as a logged-in user.""",George Wright,2021-03-07T18:19:24Z
+176949922,comment_create_activity,"George Wright added comment: ""Given I am a website user, when I attempt to register for a new user account with name or password blank, or with an email address not in a valid email format, then I am presented with an error message that does not allow me to progress in the registration process.""",George Wright,2021-03-07T18:18:02Z
+176949922,comment_create_activity,"George Wright added comment: ""Given I am a website user, when I visit the Plan.ly homepage, then I see a ""Sign Up"" button I can click to be taken to a new user account page that prompts me for email address, password, and name.""",George Wright,2021-03-07T18:16:36Z
+176949922,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:15:48Z
+176949922,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:15:43Z
+176949922,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:12:36Z
+176949922,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:12:28Z
+176879523,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:11:59Z
+176879523,comment_update_activity,George Wright edited this comment,George Wright,2021-03-07T18:11:42Z
+176879523,comment_create_activity,"George Wright added comment: ""Given I am a website user, when I attempt to login to Plan.ly with a set of credentials known to be invalid, then I am presented with an error stating my login attempt failed, and I cannot progress past the login page.""",George Wright,2021-03-07T18:11:20Z
+176879523,comment_create_activity,"George Wright added comment: ""Given I am a website user, when I attempt to login to Plan.ly with a set of credentials known to be valid, then I am redirected to my user dashboard/feed page as a logged-in user.""",George Wright,2021-03-07T18:10:41Z
+176879523,comment_create_activity,"George Wright added comment: ""Given I am a website user, when I visit the Plan.ly homepage, then I see a login button that, when clicked takes me to a login form I can use to enter my valid email address and password.""",George Wright,2021-03-07T18:09:49Z
+176879523,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:08:36Z
+176879523,reaction_create_activity,George Wright reacted: warning,George Wright,2021-03-07T18:08:30Z
+177237462,story_delete_activity,George Wright deleted this feature,George Wright,2021-03-07T17:48:14Z
+177237462,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-03-07T17:47:28Z
+177237462,story_create_activity,George Wright added this feature,George Wright,2021-03-07T17:47:20Z
+177135332,story_update_activity,Zach Schandorf-Lartey started this chore,Zach Schandorf-Lartey,2021-03-03T07:58:37Z
+177135332,story_create_activity,Zach Schandorf-Lartey added this chore,Zach Schandorf-Lartey,2021-03-01T07:32:03Z
+22928523,label_create_activity,"Zach Schandorf-Lartey created labels: ""ui/ux""",Zach Schandorf-Lartey,2021-03-01T07:32:02Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Write test case - 0.5h""",Aysha Zenab Kenza,2021-03-01T06:41:37Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Modify add invitee workflow to call send email API - 0.5h""",Aysha Zenab Kenza,2021-03-01T06:41:33Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Set up email distribution service with Heroku - 1h""",Aysha Zenab Kenza,2021-03-01T06:41:29Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-03-01T06:41:22Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-03-01T06:41:01Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-03-01T06:39:57Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-03-01T06:39:51Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Write test case - 1h""",Aysha Zenab Kenza,2021-03-01T06:39:41Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Modify add invitee workflow to call send email API - 2h""",Aysha Zenab Kenza,2021-03-01T06:39:37Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Set up email distribution service with Heroku - 3h""",Aysha Zenab Kenza,2021-03-01T06:39:33Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Write test case - 1 h""",Aysha Zenab Kenza,2021-03-01T06:39:23Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Modify add invitee workflow to call send email API - 2 h""",Aysha Zenab Kenza,2021-03-01T06:39:16Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Set up email distribution service with Heroku - 3 h""",Aysha Zenab Kenza,2021-03-01T06:39:12Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Modify add invitee workflow to call send email API - 1 h""",Aysha Zenab Kenza,2021-03-01T06:39:08Z
+176936634,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Set up email distribution service with Heroku - 2 h""",Aysha Zenab Kenza,2021-03-01T06:38:50Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-03-01T06:33:48Z
+176936634,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-03-01T06:33:40Z
+176879375,story_move_activity,George Wright moved and scheduled this story before 'Go To Event From Feed',George Wright,2021-02-28T21:07:52Z
+176953068,story_move_activity,George Wright moved and scheduled this story before 'Update my private event',George Wright,2021-02-28T21:07:50Z
+176879628,story_move_activity,George Wright moved this story before 'Update my private event',George Wright,2021-02-28T21:06:44Z
+176879638,story_move_activity,George Wright moved this story before 'Create a private event',George Wright,2021-02-28T21:06:41Z
+176879628,story_move_activity,George Wright moved this story before 'Delete private event',George Wright,2021-02-28T21:06:11Z
+176879628,story_move_activity,George Wright moved this story before 'Update my private event',George Wright,2021-02-28T21:06:05Z
+176879638,story_move_activity,George Wright moved and scheduled this story before 'Create a private event',George Wright,2021-02-28T21:06:03Z
+176879640,story_move_activity,George Wright moved and scheduled this story before 'Create a private event',George Wright,2021-02-28T21:05:58Z
+176879628,story_move_activity,George Wright moved and scheduled this story before 'Go To Event From Feed',George Wright,2021-02-28T21:05:55Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-add the logic to send the user token to django and create a user from it -2h""",Zach Schandorf-Lartey,2021-02-28T14:51:06Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""create logic to retrieve account data from user class - 1h""",Zach Schandorf-Lartey,2021-02-28T14:51:01Z
+176936657,comment_create_activity,"George Wright added comment: ""Given I am a website user who has not yet registered with Plan.ly, when I complete the ""signup with Google"" workflow for the first time, then I expect to receive an automated email confirming I have registered with Plan.ly.""",George Wright,2021-02-26T22:10:51Z
+176879638,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T23:01:28Z
+176879638,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T23:01:18Z
+176879640,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T22:54:42Z
+176879640,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T22:28:19Z
+176879640,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T22:21:25Z
+176879628,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T22:10:12Z
+176879628,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T22:07:21Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-25T22:05:00Z
+176879631,comment_create_activity,"Karen Sommer added comment: ""Given the current event screen is displayed, when I select an event then a new screen will be displayed with all the information related to that event (name, description, invite list, location, starting and ending date, and time.) So that I can view the details of the event.""",Karen Sommer,2021-02-25T21:48:11Z
+176879631,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T21:45:19Z
+176879631,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T21:45:05Z
+176895607,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T21:42:49Z
+176895607,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T21:42:04Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-25T21:36:56Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-25T21:34:36Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-25T21:34:24Z
+176895607,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T21:33:27Z
+176895607,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-25T21:31:33Z
+176895607,comment_create_activity,"Karen Sommer added comment: ""Given the history event screen is displayed, when I select an event then a new screen will be displayed with all the information related to that event (name, description, invite list, location, starting and ending date, and time.)""",Karen Sommer,2021-02-25T21:29:26Z
+176895607,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-25T21:25:21Z
+176949922,task_update_activity,"Zach Schandorf-Lartey rewrote task: ""create logic to retrieve account data from user class - 1h""",Zach Schandorf-Lartey,2021-02-25T03:42:59Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""create logic to retrieve account data from user class - 1h""",Zach Schandorf-Lartey,2021-02-25T03:42:53Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-add the logic to send the signed up/logged in user to a new page (the feed) - 1h""",Zach Schandorf-Lartey,2021-02-25T03:42:19Z
+176949922,task_delete_activity,Zach Schandorf-Lartey deleted a task on this story,Zach Schandorf-Lartey,2021-02-25T03:42:15Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-create a user class in django - .5h""",Zach Schandorf-Lartey,2021-02-25T03:42:08Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-Create the login page ui - 1h""",Zach Schandorf-Lartey,2021-02-25T03:42:05Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-Add the logic to connect our app to Google - .5h (no longer needed)""",Zach Schandorf-Lartey,2021-02-25T03:42:03Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-Create a google app that our web app will connect to - .5h (No longer needed)""",Zach Schandorf-Lartey,2021-02-25T03:42:01Z
+176949922,task_update_activity,"Zach Schandorf-Lartey completed task: ""-Create a login/signup component - .5h""",Zach Schandorf-Lartey,2021-02-25T03:41:58Z
+176879523,task_delete_activity,Zach Schandorf-Lartey deleted a task on this story,Zach Schandorf-Lartey,2021-02-25T03:33:43Z
+176879523,task_delete_activity,Zach Schandorf-Lartey deleted a task on this story,Zach Schandorf-Lartey,2021-02-25T03:33:43Z
+176879523,task_update_activity,"Zach Schandorf-Lartey completed task: ""if the user does exist, create logic to send them to the dashboard component - 1h""",Zach Schandorf-Lartey,2021-02-25T03:33:40Z
+176879523,task_update_activity,"Zach Schandorf-Lartey completed task: ""if the user does not exist, create logic to create user account in mongo database with the provided name/email/password  -3h""",Zach Schandorf-Lartey,2021-02-25T03:33:39Z
+176879523,task_update_activity,"Zach Schandorf-Lartey rewrote task: ""if the user does exist, create logic to send them to the dashboard component - 1h""",Zach Schandorf-Lartey,2021-02-25T03:33:36Z
+176879523,task_update_activity,"Zach Schandorf-Lartey rewrote task: ""if the user does not exist, create logic to create user account in mongo database with their user's google information  -3h""",Zach Schandorf-Lartey,2021-02-25T03:33:28Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""if the user does exist, create logic to send them to the dashboard component - 1h""",Zach Schandorf-Lartey,2021-02-25T03:32:54Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""if the user does not exist, create logic to create user account in mongo database with the provided name/email/password  -3h""",Zach Schandorf-Lartey,2021-02-25T03:32:38Z
+176879523,task_update_activity,"Zach Schandorf-Lartey completed task: ""create the logic to check if the user logging in already has an account in the django database - 1h""",Zach Schandorf-Lartey,2021-02-25T03:31:31Z
+176879523,task_update_activity,"Zach Schandorf-Lartey completed task: ""Create a login/signup component - .5h""",Zach Schandorf-Lartey,2021-02-25T03:31:29Z
+176879523,task_update_activity,"Zach Schandorf-Lartey completed task: ""Create authentication flow - 2h""",Zach Schandorf-Lartey,2021-02-25T03:31:28Z
+176949922,story_update_activity,Zach Schandorf-Lartey started this feature,Zach Schandorf-Lartey,2021-02-21T22:12:46Z
+176879523,story_update_activity,Zach Schandorf-Lartey started this feature,Zach Schandorf-Lartey,2021-02-21T22:12:36Z
+176949922,blocker_delete_activity,"Zach Schandorf-Lartey deleted a blocker: ""story""",Zach Schandorf-Lartey,2021-02-21T20:55:03Z
+176949922,blocker_create_activity,"Zach Schandorf-Lartey added a blocker: ""story""",Zach Schandorf-Lartey,2021-02-21T20:55:00Z
+176936476,blocker_delete_activity,"George Wright deleted a blocker: ""#176936657""",George Wright,2021-02-21T20:54:43Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-21T20:46:56Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-21T20:46:53Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-21T20:46:52Z
+176936634,story_move_activity,George Wright moved this story before 'Create Invite List',George Wright,2021-02-21T20:46:46Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-21T20:46:27Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-21T20:45:32Z
+176936657,story_move_activity,George Wright moved and scheduled this story before 'Log in',George Wright,2021-02-21T20:41:02Z
+176879523,story_move_activity,George Wright moved and scheduled this story before 'Go To Event From Feed',George Wright,2021-02-21T20:40:26Z
+176949922,story_move_activity,George Wright moved and scheduled this story before 'Go To Event From Feed',George Wright,2021-02-21T20:40:19Z
+176952240,comment_create_activity,"mtdowding added comment: ""Given an 'add new task' button, an owner or co-owner may add a task to an event""",mtdowding,2021-02-21T18:33:14Z
+176952196,story_update_activity,mtdowding estimated this feature as 2 points,mtdowding,2021-02-21T18:30:50Z
+176952196,story_update_activity,mtdowding estimated this feature as 1 point,mtdowding,2021-02-21T18:30:48Z
+176952196,story_update_activity,mtdowding estimated this feature as 2 points,mtdowding,2021-02-21T18:30:44Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-21T18:30:34Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-21T18:30:31Z
+176952240,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-21T18:26:44Z
+176949922,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-21T08:23:13Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-test the sign up flow - 1h""",Zach Schandorf-Lartey,2021-02-21T08:22:12Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-Write unit tests -1h""",Zach Schandorf-Lartey,2021-02-21T08:22:10Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-add the logic to send the signed up/logged in user to a new page (the feed) - 1h""",Zach Schandorf-Lartey,2021-02-21T08:22:08Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-create a registration component that the user will add contact info into - .5h""",Zach Schandorf-Lartey,2021-02-21T08:22:05Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-add the logic to send the user token to django and create a user from it -2h""",Zach Schandorf-Lartey,2021-02-21T08:22:03Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-create a user class in django - .5h""",Zach Schandorf-Lartey,2021-02-21T08:22:02Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-Create the login page ui - 1h""",Zach Schandorf-Lartey,2021-02-21T08:22:00Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-Add the logic to connect our app to Google - .5h (no longer needed)""",Zach Schandorf-Lartey,2021-02-21T08:21:57Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-Create a google app that our web app will connect to - .5h (No longer needed)""",Zach Schandorf-Lartey,2021-02-21T08:21:55Z
+176949922,task_create_activity,"Zach Schandorf-Lartey added task: ""-Create a login/signup component - .5h""",Zach Schandorf-Lartey,2021-02-21T08:21:52Z
+176949922,comment_create_activity,"Zach Schandorf-Lartey added comment: ""Given that that the user has entered in their accout information and clicks the ""continue"" button, their account will have been created and they will be taken to their feed
+""",Zach Schandorf-Lartey,2021-02-21T08:21:48Z
+176949922,comment_create_activity,"Zach Schandorf-Lartey added comment: ""Given that the account creation window is available, the user will be asked to enter their name, email, and phone number
+""",Zach Schandorf-Lartey,2021-02-21T08:21:44Z
+176949922,comment_create_activity,"Zach Schandorf-Lartey added comment: ""Given the google authentication window is avialable, when the user selects their google account, they will be taken to a new window to continue the accout creation process
+""",Zach Schandorf-Lartey,2021-02-21T08:21:39Z
+176949922,comment_create_activity,"Zach Schandorf-Lartey added comment: ""Given the login page and that a user is not registered, when the user clicks on the ""login with Google"" button, a popup window will open, asking the user to select a Google account to use with the app
+""",Zach Schandorf-Lartey,2021-02-21T08:21:35Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""test the log in flow -1h""",Zach Schandorf-Lartey,2021-02-21T07:40:42Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""write user tests - 1h""",Zach Schandorf-Lartey,2021-02-21T07:40:36Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""if the user does exist, create the logic to send them to the next page (feed) -.5h""",Zach Schandorf-Lartey,2021-02-21T07:40:31Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""if the user does not exist, create the logic to send the user to the registration component -.5h""",Zach Schandorf-Lartey,2021-02-21T07:40:24Z
+176879523,task_update_activity,"Zach Schandorf-Lartey rewrote task: ""Create a login/signup component - .5h""",Zach Schandorf-Lartey,2021-02-21T07:40:18Z
+176879523,task_update_activity,"Zach Schandorf-Lartey rewrote task: ""create the logic to check if the user logging in already has an account in the django database - 1h""",Zach Schandorf-Lartey,2021-02-21T07:40:16Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""create the logic to check if the user logging in already has an account in the django database - 1h""",Zach Schandorf-Lartey,2021-02-21T07:40:12Z
+176879523,task_create_activity,"Zach Schandorf-Lartey added task: ""Create a login/signup component - .5h""",Zach Schandorf-Lartey,2021-02-21T07:40:07Z
+176879523,comment_create_activity,"Zach Schandorf-Lartey added comment: ""Given the google authentication window is available, when the user selects their google account and an account in Plan.ly exists, the web app will display the user's feed""",Zach Schandorf-Lartey,2021-02-21T07:40:01Z
+176879523,comment_create_activity,"Zach Schandorf-Lartey added comment: ""Given the login page and that a user is registered, when the user clicks on the ""login with Google"" button, a popup window will open, asking the user will be asked to authenticate themselves with their google account""",Zach Schandorf-Lartey,2021-02-21T07:39:55Z
+176879523,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-21T07:39:34Z
+176936476,comment_create_activity,"Aysha Zenab Kenza added comment: ""Given a web site user/member in current events, when the user accepts invite list then the organizer should get the information about the invite attending""",Aysha Zenab Kenza,2021-02-21T06:38:00Z
+176936649,comment_create_activity,"Aysha Zenab Kenza added comment: ""Given the delete button in the current situation, when the organizer wants to modify the current invite list, then the organizer can do so by using the delete button""",Aysha Zenab Kenza,2021-02-21T06:35:50Z
+176936649,comment_update_activity,Aysha Zenab Kenza edited this comment,Aysha Zenab Kenza,2021-02-21T06:33:52Z
+176952235,comment_create_activity,"mtdowding added comment: ""Given an 'edit event description' button for an owner on their event page, when the owner clicks this they will be able to edit that events description displayed to all attendees """,mtdowding,2021-02-20T23:12:47Z
+176952235,task_create_activity,"mtdowding added task: ""create logic to allow owners to alter the text in an events description - 1h""",mtdowding,2021-02-20T23:11:12Z
+176952235,task_create_activity,"mtdowding added task: ""create 'edit event description' UI for an owner of that event - 1h""",mtdowding,2021-02-20T23:10:27Z
+176952235,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-20T23:09:06Z
+176952235,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-20T23:07:39Z
+176952196,task_create_activity,"mtdowding added task: ""Make logic to choose attendees roles - 1h""",mtdowding,2021-02-20T23:03:24Z
+176952196,task_create_activity,"mtdowding added task: ""Create 'edit user roles' UI - 1h""",mtdowding,2021-02-20T23:03:05Z
+176952196,comment_update_activity,mtdowding edited this comment,mtdowding,2021-02-20T23:02:31Z
+176952196,task_delete_activity,mtdowding deleted a task on this story,mtdowding,2021-02-20T22:58:32Z
+176952196,task_create_activity,"mtdowding added task: ""Create event attendee roles""",mtdowding,2021-02-20T22:58:19Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-20T22:57:08Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-20T22:56:24Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-20T22:56:11Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-20T22:56:08Z
+176954258,story_delete_activity,mtdowding deleted this feature,mtdowding,2021-02-20T22:56:01Z
+176951057,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T19:44:01Z
+176951057,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T19:41:59Z
+176951057,comment_create_activity,"George Wright added comment: ""Given I have logged into an event as an Event Owner, when I expand a task, mark it as complete, save the task, and refresh the page, then I should see my completion of the task persisted with the completion checkbox for that task continuing to be filled in after the page refreshes.""",George Wright,2021-02-20T17:25:06Z
+176951057,comment_create_activity,"George Wright added comment: ""Given I have logged into Plan.ly as an Event Owner and expanded any task created by anyone, when I check the ""completed"" checkbox and click to save the task, then I should see that task's ""completed"" field be set to True in the back-end database.""",George Wright,2021-02-20T17:24:01Z
+176879375,task_delete_activity,ckulig deleted a task on this story,ckulig,2021-02-20T17:23:34Z
+176951057,comment_create_activity,"George Wright added comment: ""Given I have Plan.ly open in a web browser, I am looking at an event as an Event Owner, and one or more task lists and task have previously been created in the event, when I expand any task to see its details, then I should see a non-disabled checkbox available for me to use to mark the task as complete.""",George Wright,2021-02-20T17:22:25Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-20T17:20:54Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-20T17:20:46Z
+176951057,task_update_activity,"George Wright rewrote task: ""Design database schema change to support complete flag - 1 h""",George Wright,2021-02-20T17:20:22Z
+176951057,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T17:19:59Z
+176953068,task_create_activity,"ckulig added task: ""Other core structural items are handled in ""View feed of events"" #176879375.""",ckulig,2021-02-20T17:19:40Z
+176953068,task_update_activity,"ckulig rewrote task: ""In React within the list of events in the feed link individual events to the event details page - .5h""",ckulig,2021-02-20T17:18:30Z
+176951057,task_update_activity,"George Wright rewrote task: ""Write and execute test cases - 30 m""",George Wright,2021-02-20T17:12:00Z
+176951057,task_update_activity,"George Wright rewrote task: ""Design UI change to support completion checkbox - 30 m""",George Wright,2021-02-20T17:11:54Z
+176951057,task_update_activity,"George Wright rewrote task: ""Write and execute test cases - 0.5 h""",George Wright,2021-02-20T17:11:51Z
+176951057,task_update_activity,"George Wright rewrote task: ""Update API to support completion flag being passed in - 1 h""",George Wright,2021-02-20T17:11:44Z
+176951057,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T17:11:19Z
+176951334,comment_create_activity,"George Wright added comment: ""Given I have assigned a task to an event owner or invitee, when I revisit the dropdown box for assigning a task, then I should see a <blank> option that I can use to assign the task to no one (unassign it).""",George Wright,2021-02-20T17:09:36Z
+176951334,comment_create_activity,"George Wright added comment: ""Given I have saved a task with an assignee selected in the dropdown, when I refresh the browser page, then I should see my selected assignee persisted at each task level.""",George Wright,2021-02-20T17:08:34Z
+176951334,comment_create_activity,"George Wright added comment: ""Given, as the event owner, I have expanded a task in a task list on an event, when I select an assignee for a task and click save, then the database document entry for the task I updated should be changed to show the assigned user in the ""owner"" field.""",George Wright,2021-02-20T17:06:59Z
+176951334,comment_create_activity,"George Wright added comment: ""Given I am signed in to Plan.ly on a web browser, I have opened an event as the Event Owner role, and there exists at least one task list containing at least one task, when I expand the details of any of those tasks, then I should see a new field entitled ""owner"" showing a dropdown UI control populated with all owners and attendees of the event.""",George Wright,2021-02-20T17:05:37Z
+176951334,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T17:02:50Z
+176951334,task_update_activity,"George Wright rewrote task: ""Design UI to have ""assigned to"" field next to each task - 30 m""",George Wright,2021-02-20T17:02:42Z
+176951334,task_update_activity,"George Wright moved task: ""Connect UI behavior to new API endpoint - 1 h""",George Wright,2021-02-20T17:02:33Z
+176951334,task_create_activity,"George Wright added task: ""Connect UI behavior to new API endpoint - 1 h""",George Wright,2021-02-20T17:02:30Z
+176951334,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T17:01:28Z
+176951334,task_create_activity,"George Wright added task: ""Develop and execute unit tests - 1 h""",George Wright,2021-02-20T17:01:11Z
+176951334,task_update_activity,"George Wright rewrote task: ""Update API for /updateTask to allow assignee field to be passed in for each task. - 2 h""",George Wright,2021-02-20T17:00:56Z
+176951334,task_update_activity,"George Wright rewrote task: ""Update API for /updateTask to allow assignee field to be passed in for each task.""",George Wright,2021-02-20T17:00:50Z
+176951334,task_update_activity,"George Wright rewrote task: ""Modify database schema to have ""owner"" field on each task - 30 m""",George Wright,2021-02-20T17:00:14Z
+176951334,task_update_activity,"George Wright rewrote task: ""Design UI to have ""assigned to"" field next to each task - 1h""",George Wright,2021-02-20T16:59:01Z
+176951334,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T16:58:18Z
+176951334,story_update_activity,George Wright edited this feature,George Wright,2021-02-20T16:36:21Z
+176936649,comment_update_activity,Aysha Zenab Kenza edited this comment,Aysha Zenab Kenza,2021-02-18T19:32:18Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-18T19:25:43Z
+177004660,story_delete_activity,Aysha Zenab Kenza deleted this feature,Aysha Zenab Kenza,2021-02-18T19:24:47Z
+177004656,story_delete_activity,Aysha Zenab Kenza deleted this feature,Aysha Zenab Kenza,2021-02-18T19:24:42Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-18T19:24:32Z
+176936649,comment_update_activity,Aysha Zenab Kenza edited this comment,Aysha Zenab Kenza,2021-02-18T19:24:32Z
+176936476,blocker_create_activity,"Aysha Zenab Kenza added a blocker: ""#176936657""",Aysha Zenab Kenza,2021-02-18T19:24:23Z
+177004660,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-18T19:24:14Z
+177004656,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-18T19:23:54Z
+176936657,comment_create_activity,"Aysha Zenab Kenza added comment: ""Given a website user/member in current events, when the user clicks signing in or creates an account, then the user information should be recorded.""",Aysha Zenab Kenza,2021-02-18T19:23:48Z
+176936649,task_create_activity,"Aysha Zenab Kenza added task: ""Delete using Unique Identification Number - 1H""",Aysha Zenab Kenza,2021-02-18T19:19:49Z
+176936476,task_update_activity,"Aysha Zenab Kenza rewrote task: ""Create DataBase to store the information - 1h""",Aysha Zenab Kenza,2021-02-18T19:16:11Z
+176936476,task_create_activity,"Aysha Zenab Kenza added task: ""Collect Invitee Information - 1h""",Aysha Zenab Kenza,2021-02-18T19:16:05Z
+176936476,task_create_activity,"Aysha Zenab Kenza added task: ""Create DataBase to store the information - 1h""",Aysha Zenab Kenza,2021-02-18T19:14:47Z
+177004257,story_delete_activity,Aysha Zenab Kenza deleted this feature,Aysha Zenab Kenza,2021-02-18T19:10:24Z
+177004257,story_update_activity,Aysha Zenab Kenza estimated this feature as 1 point,Aysha Zenab Kenza,2021-02-18T19:09:49Z
+177004257,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-18T19:08:41Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-18T16:52:40Z
+176948560,story_move_activity,Yuting Zhang moved this story before 'Event Owner -- Create new task lists',Yuting Zhang,2021-02-18T01:28:19Z
+176953068,story_move_activity,Yuting Zhang moved this story before 'Event Owner -- Create new task lists',Yuting Zhang,2021-02-18T01:28:17Z
+176953068,story_move_activity,Yuting Zhang moved this story before 'Event owner delete subtask',Yuting Zhang,2021-02-18T01:28:00Z
+176953068,story_move_activity,Yuting Zhang moved and scheduled this story before 'Event Owner -- Manage Event User Roles',Yuting Zhang,2021-02-18T01:27:58Z
+176948560,story_move_activity,Yuting Zhang moved and scheduled this story,Yuting Zhang,2021-02-18T01:27:53Z
+176952240,comment_create_activity,"Yuting Zhang added comment: ""what information should a task include : time? who is responsible?""",Yuting Zhang,2021-02-18T00:59:00Z
+176948560,story_move_activity,George Wright moved this story before 'Event Owner -- Manage Event User Roles',George Wright,2021-02-16T19:07:03Z
+176954258,story_create_activity,mtdowding added this feature,mtdowding,2021-02-16T02:06:59Z
+176951010,story_move_activity,mtdowding moved this story before 'Event invitee assign task to event member',mtdowding,2021-02-16T02:05:00Z
+176952250,story_delete_activity,Karen Sommer deleted this feature,Karen Sommer,2021-02-16T01:55:58Z
+176952235,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:55:38Z
+176952235,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:55:36Z
+176952250,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:55:20Z
+176952250,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:55:13Z
+176952240,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:27:09Z
+176952240,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:27:03Z
+176952250,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:26:55Z
+176952250,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:26:49Z
+176952235,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:25:06Z
+176952235,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-16T01:24:37Z
+176952196,story_update_activity,George Wright edited this feature,George Wright,2021-02-16T01:21:09Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-16T01:18:54Z
+176950065,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-16T01:18:53Z
+176936476,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-16T01:18:44Z
+176953068,comment_update_activity,ckulig edited this comment,ckulig,2021-02-16T00:46:58Z
+176953068,story_update_activity,ckulig edited this feature,ckulig,2021-02-16T00:45:09Z
+176953068,story_update_activity,ckulig edited this feature,ckulig,2021-02-16T00:44:22Z
+176879375,comment_update_activity,ckulig edited this comment,ckulig,2021-02-16T00:42:09Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-16T00:38:05Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-15T23:05:20Z
+176936476,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-15T23:04:56Z
+176936657,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-15T23:03:40Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create the React UI that will display the users event information - 1.5h""",ckulig,2021-02-15T23:00:34Z
+176953068,task_update_activity,"ckulig rewrote task: ""In React within the list of events in the feed link individual events to the event details page - .1h""",ckulig,2021-02-15T22:58:57Z
+176953068,comment_create_activity,"ckulig added comment: ""Given I am a user and I am registered, logged in, and on the home page if there is a feed available and I am not attending any events then the feed will be empty and I will have nothing to get more information about.""",ckulig,2021-02-15T22:50:14Z
+176953068,comment_create_activity,"ckulig added comment: ""Given I am a registered user when I am logged in and on the home page and there are events I am either hosting or attending and there is an event feed I am able to click on a particular event and get directed to information about that specific event.""",ckulig,2021-02-15T22:49:21Z
+176953068,task_update_activity,"ckulig rewrote task: ""Unit Test -.5 hr""",ckulig,2021-02-15T22:47:48Z
+176953068,task_create_activity,"ckulig added task: ""Unit Test -.5 hr""",ckulig,2021-02-15T22:47:42Z
+176953068,story_create_activity,ckulig added this feature,ckulig,2021-02-15T22:47:15Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-15T22:42:54Z
+176950044,story_delete_activity,mtdowding deleted this feature,mtdowding,2021-02-15T21:38:04Z
+176952250,story_create_activity,mtdowding added this feature,mtdowding,2021-02-15T21:37:52Z
+176952235,story_update_activity,mtdowding estimated this feature as 1 point,mtdowding,2021-02-15T21:36:49Z
+176952240,story_create_activity,mtdowding added this feature,mtdowding,2021-02-15T21:36:43Z
+176952196,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-15T21:35:45Z
+176952235,story_create_activity,mtdowding added this feature,mtdowding,2021-02-15T21:35:25Z
+176946153,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:34:37Z
+176948647,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:33:17Z
+176948647,task_create_activity,"George Wright added task: ""Selectively hide subtask delete button based on task ownership - 1 h""",George Wright,2021-02-15T21:33:12Z
+176950044,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-15T21:32:41Z
+176948627,task_update_activity,"George Wright rewrote task: ""Modify UI to selectively hide subtask creation based on task ownership - 1 h""",George Wright,2021-02-15T21:32:01Z
+176948627,task_create_activity,"George Wright added task: ""Modify UI to selectively hide subtask creation based on task ownership - 1 h""",George Wright,2021-02-15T21:31:34Z
+176948493,story_update_activity,George Wright estimated this feature as 2 points,George Wright,2021-02-15T21:30:42Z
+176952196,story_create_activity,mtdowding added this feature,mtdowding,2021-02-15T21:30:37Z
+176948493,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:30:36Z
+176948493,task_create_activity,"George Wright added task: ""Write test case - 1h""",George Wright,2021-02-15T21:30:31Z
+176948493,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:30:23Z
+176948493,task_create_activity,"George Wright added task: ""Modify API to allow new task to be child of other task - 1h""",George Wright,2021-02-15T21:30:17Z
+176948493,task_create_activity,"George Wright added task: ""Modify UI to show nested child tasks - 1h""",George Wright,2021-02-15T21:30:04Z
+176948493,task_create_activity,"George Wright added task: ""Allow tasks to be children of other tasks - 1h""",George Wright,2021-02-15T21:29:38Z
+176948560,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:28:20Z
+176950044,story_move_activity,mtdowding moved this story before 'Event Invitee - Accept tasks',mtdowding,2021-02-15T21:28:15Z
+176948560,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:28:05Z
+176948560,task_update_activity,"George Wright rewrote task: ""Update UI to include delete button for subtasks - 1h""",George Wright,2021-02-15T21:27:49Z
+176948560,task_update_activity,"George Wright rewrote task: ""Create API to delete subtask - 0.5 h""",George Wright,2021-02-15T21:27:36Z
+176948560,task_create_activity,"George Wright added task: ""Update UI to include delete button for subtasks - 1h""",George Wright,2021-02-15T21:27:32Z
+176948560,task_create_activity,"George Wright added task: ""Create API to delete subtask - 0.5 h""",George Wright,2021-02-15T21:27:29Z
+176948493,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:26:12Z
+176948627,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:26:10Z
+176948560,story_update_activity,George Wright unstarted this feature,George Wright,2021-02-15T21:26:07Z
+176948560,story_update_activity,George Wright started this feature,George Wright,2021-02-15T21:25:57Z
+176948560,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:25:56Z
+176948647,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:25:55Z
+176951057,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:25:42Z
+176945919,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:22:22Z
+176945919,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:22:16Z
+176945919,task_create_activity,"George Wright added task: ""Update UI to selectively hide delete button based on role - 1 h""",George Wright,2021-02-15T21:22:11Z
+176949965,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:21:38Z
+176949965,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:21:31Z
+176949965,task_create_activity,"George Wright added task: ""Write test case - 1 h""",George Wright,2021-02-15T21:21:24Z
+176949965,task_create_activity,"George Wright added task: ""Create API to allow deletion of event comments - 1 h""",George Wright,2021-02-15T21:21:17Z
+176949965,task_create_activity,"George Wright added task: ""Design UI to include delete button on event feed posts - 0.5 h""",George Wright,2021-02-15T21:20:58Z
+176945863,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T21:20:29Z
+176945863,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:20:20Z
+176945863,task_create_activity,"George Wright added task: ""Write test case - 0.5 h""",George Wright,2021-02-15T21:20:14Z
+176945863,task_create_activity,"George Wright added task: ""Update API to allow comments to be posted to event comment feed - 0.5 h""",George Wright,2021-02-15T21:19:58Z
+176945863,task_create_activity,"George Wright added task: ""Allow comment database records to be tied to an event - 1h""",George Wright,2021-02-15T21:19:19Z
+176945863,task_create_activity,"George Wright added task: ""Design UI to allow posting of comments to event feed - 1h""",George Wright,2021-02-15T21:19:04Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:17:29Z
+176951356,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:14:04Z
+176951356,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:13:55Z
+176951334,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:11:08Z
+176951334,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T21:11:00Z
+176951356,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T21:04:15Z
+176951356,task_update_activity,"vibs97 moved task: ""Add section for owner to view all the remaining / deleted tasks - 1h""",vibs97,2021-02-15T21:04:01Z
+176951356,task_create_activity,"vibs97 added task: ""Add section for owner to view all the remaining / deleted tasks - 1h""",vibs97,2021-02-15T21:03:58Z
+176951356,task_create_activity,"vibs97 added task: ""If accepted add person to the owner list of that task -1h""",vibs97,2021-02-15T21:03:33Z
+176951356,task_create_activity,"vibs97 added task: ""Add logic for owner to get informed about declined tasks - 1h""",vibs97,2021-02-15T21:03:12Z
+176951356,task_create_activity,"vibs97 added task: ""Add logic for a person to decline a task - 1h""",vibs97,2021-02-15T21:02:18Z
+176951334,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T21:01:06Z
+176951334,task_create_activity,"vibs97 added task: ""Update API for /updateTask to allow assignee field to be passed in for each task. - 2 h""",vibs97,2021-02-15T21:00:56Z
+176951334,task_create_activity,"vibs97 added task: ""Modify database schema to have ""owner"" field on each task - 30 m""",vibs97,2021-02-15T21:00:39Z
+176951334,task_create_activity,"vibs97 added task: ""Design UI to have ""assigned to"" field next to each task - 30 m""",vibs97,2021-02-15T20:59:50Z
+176951294,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:58:17Z
+176951294,task_create_activity,"vibs97 added task: ""Add invitee to owner of the task - 1h""",vibs97,2021-02-15T20:58:11Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:57:55Z
+176951294,story_move_activity,vibs97 moved this story before 'Event owner complete task',vibs97,2021-02-15T20:56:05Z
+176951010,task_update_activity,"vibs97 rewrote task: ""Add logic so that only the owners can mark-complete, delete tasks/lists - 1h""",vibs97,2021-02-15T20:55:23Z
+176951010,task_create_activity,"vibs97 added task: ""Add logic so that only the owners can mark-complete, delete tasks/lists - 1h""",vibs97,2021-02-15T20:55:17Z
+176951010,task_create_activity,"vibs97 added task: ""Add event owner as an owner inside the task Schema - 1h""",vibs97,2021-02-15T20:54:40Z
+176950966,task_delete_activity,vibs97 deleted a task on this story,vibs97,2021-02-15T20:54:10Z
+176950966,task_create_activity,"vibs97 added task: ""Create logic""",vibs97,2021-02-15T20:53:55Z
+176951010,task_create_activity,"vibs97 added task: ""Create an owner field inside the List schema - 1h""",vibs97,2021-02-15T20:53:27Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:52:45Z
+176950966,task_delete_activity,vibs97 deleted a task on this story,vibs97,2021-02-15T20:52:28Z
+176950966,task_create_activity,"vibs97 added task: ""create UI for deleting and editing """,vibs97,2021-02-15T20:52:25Z
+176950966,task_create_activity,"vibs97 added task: ""Create logic for editing and deleting tasks based on its id - 2h""",vibs97,2021-02-15T20:51:52Z
+176950966,task_create_activity,"vibs97 added task: ""Populate the parent list with all of it's tasks - 1h""",vibs97,2021-02-15T20:51:05Z
+176950966,task_create_activity,"vibs97 added task: ""Create UI for adding a task inside a list - 1h""",vibs97,2021-02-15T20:50:29Z
+176950966,task_create_activity,"vibs97 added task: ""Create a task class containing information regarding a task (Description, owner, priority, complete_time) - 1h""",vibs97,2021-02-15T20:50:12Z
+176950966,story_move_activity,vibs97 moved this story before 'Event owner complete task',vibs97,2021-02-15T20:49:33Z
+176837889,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:49:06Z
+176837889,task_update_activity,"vibs97 rewrote task: ""Create logic for adding a list class to the database when owner clicks on it - (1h)""",vibs97,2021-02-15T20:48:58Z
+176837889,task_update_activity,"vibs97 rewrote task: ""Create a UI for adding a list and tasks - (1h)""",vibs97,2021-02-15T20:48:32Z
+176837889,task_update_activity,"vibs97 rewrote task: ""Create a List class containing details for the list (name, id, task-arr etc) - (1h)""",vibs97,2021-02-15T20:48:25Z
+176837889,task_create_activity,"vibs97 added task: ""Create logic for adding a list class to the database when owner clicks on it - (1h)""",vibs97,2021-02-15T20:48:10Z
+176837889,task_delete_activity,vibs97 deleted a task on this story,vibs97,2021-02-15T20:47:20Z
+176837889,task_delete_activity,vibs97 deleted a task on this story,vibs97,2021-02-15T20:47:18Z
+176837889,task_update_activity,"vibs97 rewrote task: ""Create a UI for adding a list and tasks""",vibs97,2021-02-15T20:47:10Z
+176837889,task_create_activity,"vibs97 added task: ""Create a UI for adding a list and tasks - (1h)""",vibs97,2021-02-15T20:46:53Z
+176837889,task_create_activity,"vibs97 added task: ""Populate List class with all the tasks""",vibs97,2021-02-15T20:45:14Z
+176837889,task_update_activity,"vibs97 rewrote task: ""Create a List class containing details for the list (name, id, task-list etc)""",vibs97,2021-02-15T20:44:57Z
+176837889,task_update_activity,"vibs97 rewrote task: ""Create a task class containing the details for a specific task (description, owner, timeframe, priority)""",vibs97,2021-02-15T20:44:41Z
+176837889,task_create_activity,"vibs97 added task: ""Create a task class containing the details for a specific task (description, owner, timeframe, priority)""",vibs97,2021-02-15T20:44:34Z
+176837889,task_create_activity,"vibs97 added task: ""Create a List class containing details for the list (name, id, task-arr etc) - (1h)""",vibs97,2021-02-15T20:41:48Z
+176936657,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-15T20:28:46Z
+176936476,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-15T20:26:53Z
+176946153,task_create_activity,"George Wright added task: ""Update UI to hide delete button selectively based on post ownership and user's role within event""",George Wright,2021-02-15T20:19:10Z
+176951356,story_update_activity,vibs97 estimated this feature as 2 points,vibs97,2021-02-15T20:19:07Z
+176951294,story_update_activity,vibs97 estimated this feature as 1 point,vibs97,2021-02-15T20:18:56Z
+176950966,story_update_activity,vibs97 estimated this feature as 2 points,vibs97,2021-02-15T20:18:49Z
+176946153,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T20:18:42Z
+176951334,story_update_activity,vibs97 estimated this feature as 2 points,vibs97,2021-02-15T20:18:39Z
+176951010,story_update_activity,vibs97 estimated this feature as 1 point,vibs97,2021-02-15T20:18:28Z
+176837889,story_update_activity,vibs97 estimated this feature as 2 points,vibs97,2021-02-15T20:18:10Z
+176946153,blocker_create_activity,"George Wright added a blocker: ""#176951350""",George Wright,2021-02-15T20:16:54Z
+176951356,story_create_activity,vibs97 added this feature,vibs97,2021-02-15T20:16:37Z
+176951350,blocker_create_activity,"George Wright added a blocker: ""#176946142""",George Wright,2021-02-15T20:16:32Z
+176951350,story_create_activity,George Wright added this feature,George Wright,2021-02-15T20:16:05Z
+176951334,story_move_activity,vibs97 moved this story before 'Event owner complete task',vibs97,2021-02-15T20:14:53Z
+176950966,story_move_activity,vibs97 moved this story before 'Event owner complete task',vibs97,2021-02-15T20:14:36Z
+176951334,story_create_activity,vibs97 added this feature,vibs97,2021-02-15T20:14:25Z
+176946142,story_update_activity,George Wright estimated this feature as 2 points,George Wright,2021-02-15T20:13:27Z
+176946142,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T20:13:24Z
+176946142,task_create_activity,"George Wright added task: ""Create API endpoint to allow posting of a new comment to an item in a task list - 1 h""",George Wright,2021-02-15T20:13:11Z
+176946142,task_create_activity,"George Wright added task: ""Design UI to allow CRUD operations on comments (multiple) per task - 1 h""",George Wright,2021-02-15T20:12:46Z
+176946142,task_create_activity,"George Wright added task: ""Create database document to track comments - 0.5 h""",George Wright,2021-02-15T20:12:20Z
+176837889,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:12:01Z
+176946142,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T20:11:58Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:11:52Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:11:07Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:10:13Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:10:10Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:09:54Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:09:49Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:09:45Z
+176951294,story_create_activity,vibs97 added this feature,vibs97,2021-02-15T20:09:15Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:04:45Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:02:17Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:01:47Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T20:00:40Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:56:27Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:56:04Z
+176879523,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T19:55:54Z
+176879523,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T19:55:49Z
+176936657,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T19:55:44Z
+176936657,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T19:55:37Z
+176949922,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T19:55:20Z
+176950141,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T19:55:11Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:54:45Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:49:05Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:49:01Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:48:53Z
+176951010,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:48:41Z
+176945852,blocker_create_activity,"George Wright added a blocker: ""#176945798""",George Wright,2021-02-15T19:48:13Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:47:36Z
+176945852,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:47:31Z
+176945852,story_update_activity,George Wright estimated this feature as 3 points,George Wright,2021-02-15T19:47:25Z
+176945852,task_create_activity,"George Wright added task: ""Design UI to show uploaded photos alongside comment posts - 1 h""",George Wright,2021-02-15T19:47:20Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:47:19Z
+176950966,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:47:05Z
+176945852,task_create_activity,"George Wright added task: ""Change comment post API to accept photo uploads - 1 h""",George Wright,2021-02-15T19:47:04Z
+176945852,task_create_activity,"George Wright added task: ""Design UI to handle uploaded photos and warn if file type is unsupported or size is too big - 2 h""",George Wright,2021-02-15T19:44:53Z
+176951057,story_create_activity,vibs97 added this feature,vibs97,2021-02-15T19:44:42Z
+176945852,task_create_activity,"George Wright added task: ""Establish database schema to manage photo uploads and tie them to comment feed posts - 1 h""",George Wright,2021-02-15T19:43:55Z
+176945852,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:43:38Z
+176945852,task_create_activity,"George Wright added task: ""Establish photo storage area - 1 h""",George Wright,2021-02-15T19:41:22Z
+176837889,story_update_activity,vibs97 edited this feature,vibs97,2021-02-15T19:40:11Z
+176951010,story_create_activity,vibs97 added this feature,vibs97,2021-02-15T19:39:58Z
+176936636,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T19:38:31Z
+176936636,task_create_activity,"George Wright added task: ""Write test case - 0.5 h""",George Wright,2021-02-15T19:38:26Z
+176936636,task_create_activity,"George Wright added task: ""Modify assign task workflow to call send email API - 0.5 h""",George Wright,2021-02-15T19:38:23Z
+176936636,blocker_create_activity,"George Wright added a blocker: ""#176936634""",George Wright,2021-02-15T19:37:55Z
+176936634,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T19:37:30Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:37:28Z
+176936634,task_create_activity,"George Wright added task: ""Write test case - 0.5h""",George Wright,2021-02-15T19:37:14Z
+176936634,task_create_activity,"George Wright added task: ""Modify add invitee workflow to call send email API - 0.5h""",George Wright,2021-02-15T19:37:04Z
+176950966,story_create_activity,vibs97 added this feature,vibs97,2021-02-15T19:36:28Z
+176936634,task_create_activity,"George Wright added task: ""Set up email distribution service with Heroku - 1h""",George Wright,2021-02-15T19:34:49Z
+176950557,blocker_create_activity,"George Wright added a blocker: ""#176837889""",George Wright,2021-02-15T19:26:18Z
+176936603,blocker_create_activity,"George Wright added a blocker: ""#176950557""",George Wright,2021-02-15T19:25:42Z
+176936603,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T19:25:15Z
+176936603,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:25:10Z
+176936603,task_create_activity,"George Wright added task: ""Write test cases - 0.5 h""",George Wright,2021-02-15T19:25:00Z
+176936603,task_create_activity,"George Wright added task: ""Design UI change to disable completion checkbox for others' tasks - 0.5 h""",George Wright,2021-02-15T19:24:35Z
+176950557,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T19:24:07Z
+176950557,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:24:02Z
+176950557,task_create_activity,"George Wright added task: ""Write test cases - 0.5 h""",George Wright,2021-02-15T19:23:40Z
+176950557,task_create_activity,"George Wright added task: ""Update API to support completion flag being passed in - 0.5 h""",George Wright,2021-02-15T19:23:25Z
+176950557,task_create_activity,"George Wright added task: ""Design UI change to support completion checkbox - 0.5 h""",George Wright,2021-02-15T19:23:03Z
+176950557,task_create_activity,"George Wright added task: ""Design schema change to support complete flag - 1 h""",George Wright,2021-02-15T19:22:42Z
+176950542,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T19:22:12Z
+176950542,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:22:04Z
+176950542,task_update_activity,"George Wright rewrote task: ""Design UI changes to hide assignment option if you are not task creator - 1 h""",George Wright,2021-02-15T19:21:58Z
+176950542,task_create_activity,"George Wright added task: ""Write test cases - 0.5 h""",George Wright,2021-02-15T19:21:52Z
+176950542,task_create_activity,"George Wright added task: ""Design UI changes to hide assignment option if you are not task creator - 1 h""",George Wright,2021-02-15T19:21:41Z
+176950529,story_update_activity,George Wright estimated this feature as 2 points,George Wright,2021-02-15T19:20:59Z
+176950529,story_update_activity,George Wright estimated this feature as 1 point,George Wright,2021-02-15T19:20:57Z
+176950529,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:20:46Z
+176950529,task_create_activity,"George Wright added task: ""Design test cases - 1 h""",George Wright,2021-02-15T19:20:46Z
+176950529,task_create_activity,"George Wright added task: ""Implement API changes to receive assignee information with task - 1 h""",George Wright,2021-02-15T19:20:45Z
+176950529,task_create_activity,"George Wright added task: ""Design UI to assign task to someone else - 1 h""",George Wright,2021-02-15T19:20:44Z
+176950529,task_create_activity,"George Wright added task: ""Display task assignee in UI - 1 h""",George Wright,2021-02-15T19:20:38Z
+176950529,task_create_activity,"George Wright added task: ""Plan schema changes - 0.5 h""",George Wright,2021-02-15T19:19:14Z
+176950529,blocker_create_activity,"George Wright added a blocker: ""#176837889""",George Wright,2021-02-15T19:18:21Z
+176936597,story_delete_activity,George Wright deleted this feature,George Wright,2021-02-15T19:18:09Z
+176950542,blocker_create_activity,"George Wright added a blocker: ""#176950529""",George Wright,2021-02-15T19:17:39Z
+176936603,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T19:16:33Z
+176879638,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T19:14:20Z
+176879638,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T19:14:17Z
+176950557,story_create_activity,George Wright added this feature,George Wright,2021-02-15T19:00:32Z
+176950542,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:59:37Z
+176950542,story_create_activity,George Wright added this feature,George Wright,2021-02-15T18:59:27Z
+176950529,story_create_activity,George Wright added this feature,George Wright,2021-02-15T18:58:50Z
+176936603,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:57:26Z
+22905879,label_create_activity,"George Wright created labels: ""optional-task assignment""",George Wright,2021-02-15T18:51:03Z
+176936636,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:45:29Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:44:59Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:44:56Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:44:55Z
+22905865,label_create_activity,"George Wright created labels: ""optional-email notifications""",George Wright,2021-02-15T18:44:40Z
+176945852,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:43:47Z
+176945863,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:43:30Z
+176945919,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:43:12Z
+176946153,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:42:47Z
+176946142,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:42:26Z
+176948647,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:42:13Z
+22905845,label_create_activity,"George Wright created labels: ""optional-task comment feed""",George Wright,2021-02-15T18:36:42Z
+176948560,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:36:07Z
+176948627,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:35:57Z
+176948493,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:35:44Z
+22905844,label_create_activity,"George Wright created labels: ""optional-subtasks""",George Wright,2021-02-15T18:35:35Z
+176949965,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:35:24Z
+22905842,label_create_activity,"George Wright created labels: ""optional-event comment feed""",George Wright,2021-02-15T18:35:12Z
+176936657,story_update_activity,Zach Schandorf-Lartey estimated this feature as 3 points,Zach Schandorf-Lartey,2021-02-15T18:31:57Z
+176949922,story_update_activity,Zach Schandorf-Lartey estimated this feature as 2 points,Zach Schandorf-Lartey,2021-02-15T18:31:09Z
+176950065,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T18:30:48Z
+176950141,story_update_activity,Zach Schandorf-Lartey estimated this feature as 1 point,Zach Schandorf-Lartey,2021-02-15T18:30:38Z
+176950141,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T18:30:33Z
+176950141,story_create_activity,Zach Schandorf-Lartey added this feature,Zach Schandorf-Lartey,2021-02-15T18:29:39Z
+176950044,task_update_activity,"mtdowding rewrote task: ""Allow owners to add co-owner(s)  - 1h""",mtdowding,2021-02-15T18:23:34Z
+176950044,task_update_activity,"mtdowding rewrote task: ""Allow owners to create new task lists - 1h""",mtdowding,2021-02-15T18:23:31Z
+176950044,task_update_activity,"mtdowding rewrote task: ""Allow owners to manage detail/titles/description - 1h""",mtdowding,2021-02-15T18:23:29Z
+176950065,story_create_activity,Zach Schandorf-Lartey added this feature,Zach Schandorf-Lartey,2021-02-15T18:23:28Z
+176950044,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-15T18:23:01Z
+176950044,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-15T18:22:58Z
+176950044,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-15T18:22:20Z
+176950044,story_update_activity,mtdowding edited this feature,mtdowding,2021-02-15T18:22:18Z
+176950044,story_create_activity,mtdowding added this feature,mtdowding,2021-02-15T18:22:05Z
+176949965,blocker_create_activity,"George Wright added a blocker: ""#176945863""",George Wright,2021-02-15T18:17:19Z
+176949965,story_create_activity,George Wright added this feature,George Wright,2021-02-15T18:16:45Z
+176949922,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T18:14:57Z
+176946142,story_move_activity,George Wright moved this story before 'Event invitee delete post from task comment feed',George Wright,2021-02-15T18:14:36Z
+176949922,story_update_activity,Zach Schandorf-Lartey edited this feature,Zach Schandorf-Lartey,2021-02-15T18:14:35Z
+176948560,story_move_activity,George Wright moved this story before 'Event invitee delete subtask',George Wright,2021-02-15T18:14:29Z
+176948493,story_move_activity,George Wright moved this story before 'Event invitee create subtask',George Wright,2021-02-15T18:14:23Z
+176948647,story_move_activity,George Wright moved this story before 'Event owner delete subtask',George Wright,2021-02-15T18:14:08Z
+176949922,story_create_activity,Zach Schandorf-Lartey added this feature,Zach Schandorf-Lartey,2021-02-15T18:13:08Z
+176945919,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:09:05Z
+176945919,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T18:08:56Z
+176946153,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T17:38:05Z
+176946153,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T17:37:50Z
+176948560,blocker_create_activity,"George Wright added a blocker: ""#176948627""",George Wright,2021-02-15T17:37:35Z
+176948560,blocker_create_activity,"George Wright added a blocker: ""#176948493""",George Wright,2021-02-15T17:37:19Z
+176948627,blocker_create_activity,"George Wright added a blocker: ""#176837889""",George Wright,2021-02-15T17:36:59Z
+176948647,blocker_create_activity,"George Wright added a blocker: ""#176948493""",George Wright,2021-02-15T17:36:27Z
+176948647,blocker_create_activity,"George Wright added a blocker: ""#176948627""",George Wright,2021-02-15T17:35:57Z
+176948647,story_create_activity,George Wright added this feature,George Wright,2021-02-15T16:45:12Z
+176948627,story_create_activity,George Wright added this feature,George Wright,2021-02-15T16:44:15Z
+176948560,story_create_activity,George Wright added this feature,George Wright,2021-02-15T16:43:22Z
+176948493,story_create_activity,George Wright added this feature,George Wright,2021-02-15T16:42:19Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T16:28:43Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T16:02:46Z
+176895607,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T16:01:39Z
+176879638,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T16:00:39Z
+176879640,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-15T16:00:07Z
+176946153,blocker_create_activity,"George Wright added a blocker: ""#176946142""",George Wright,2021-02-15T15:07:07Z
+176946153,story_create_activity,George Wright added this feature,George Wright,2021-02-15T15:06:57Z
+176946142,story_create_activity,George Wright added this feature,George Wright,2021-02-15T15:06:17Z
+176945919,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T15:04:38Z
+176936597,blocker_create_activity,"George Wright added a blocker: ""#176837889""",George Wright,2021-02-15T15:03:57Z
+176945798,blocker_create_activity,"George Wright added a blocker: ""#176879628""",George Wright,2021-02-15T14:55:23Z
+176945919,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:54:26Z
+176945919,blocker_create_activity,"George Wright added a blocker: ""#176945863""",George Wright,2021-02-15T14:53:57Z
+176945919,story_create_activity,George Wright added this feature,George Wright,2021-02-15T14:53:34Z
+176945852,blocker_update_activity,"George Wright edited a blocker: ""#176945863""",George Wright,2021-02-15T14:52:57Z
+176945852,blocker_create_activity,"George Wright added a blocker: ""176945863""",George Wright,2021-02-15T14:52:19Z
+176945863,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:52:00Z
+176945863,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:51:48Z
+176945863,story_create_activity,George Wright added this feature,George Wright,2021-02-15T14:50:06Z
+176945852,story_create_activity,George Wright added this feature,George Wright,2021-02-15T14:49:34Z
+176945798,story_create_activity,George Wright added this feature,George Wright,2021-02-15T14:46:35Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:44:16Z
+176936636,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:44:06Z
+176936636,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:44:04Z
+176936636,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:44:03Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:43:32Z
+176936634,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:43:29Z
+176936603,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:42:49Z
+176936603,story_update_activity,George Wright edited this feature,George Wright,2021-02-15T14:42:36Z
+22904490,label_update_activity,George Wright renamed label from 'to-do list' to 'event to-do list',George Wright,2021-02-15T14:39:18Z
+22904493,label_update_activity,George Wright renamed label from 'basic event details' to 'basic event management',George Wright,2021-02-15T14:38:33Z
+176879640,comment_create_activity,"Karen Sommer added comment: ""Given the dashboard page is available, the user selects the events that wants to delete and then checks in the confirmation box for deleting that event. The event shouldn't be shown on the dashboard page""",Karen Sommer,2021-02-15T00:40:07Z
+176879638,comment_create_activity,"Karen Sommer added comment: ""Given the dashboard page is available, when the user modifies the fields and click on 'Done', then the event shown updated on the dashboard page""",Karen Sommer,2021-02-15T00:37:27Z
+176879631,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-15T00:35:53Z
+176879628,comment_create_activity,"Karen Sommer added comment: ""Given the create page is available, when the user fills all fields and click on 'Create and add invitees', then the event will be added into the system and will be display in the users dashboard or an error.""",Karen Sommer,2021-02-15T00:33:47Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-14T23:35:42Z
+176879523,story_update_activity,ckulig edited this feature,ckulig,2021-02-14T23:32:25Z
+176879523,story_update_activity,ckulig edited this feature,ckulig,2021-02-14T23:32:20Z
+176879638,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T23:25:17Z
+176879640,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T23:24:33Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T23:24:09Z
+176895607,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T23:23:50Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T23:23:38Z
+176936597,story_update_activity,George Wright unestimated this feature,George Wright,2021-02-14T20:19:03Z
+176936597,story_update_activity,George Wright unstarted this feature,George Wright,2021-02-14T20:18:58Z
+176936597,story_update_activity,George Wright estimated this feature as 0 points,George Wright,2021-02-14T20:18:54Z
+176936597,story_update_activity,George Wright rejected this feature,George Wright,2021-02-14T20:18:01Z
+176936597,comment_create_activity,"George Wright added comment: ""test rejection""",George Wright,2021-02-14T20:18:00Z
+176936597,story_update_activity,George Wright accepted this feature,George Wright,2021-02-14T20:17:04Z
+176936597,story_update_activity,George Wright estimated this feature as 2 points,George Wright,2021-02-14T20:16:55Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T20:00:34Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T20:00:30Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T19:58:37Z
+176879523,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T19:56:03Z
+176879523,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T19:55:57Z
+176879638,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:55:54Z
+176879640,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:55:44Z
+176936649,blocker_update_activity,"Aysha Zenab Kenza edited a blocker: ""#176936476""",Aysha Zenab Kenza,2021-02-14T19:55:32Z
+176936649,blocker_create_activity,"Aysha Zenab Kenza added a blocker: ""176936476""",Aysha Zenab Kenza,2021-02-14T19:55:24Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:55:20Z
+176936476,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:55:10Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:54:57Z
+176895607,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:54:47Z
+176936476,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:53:49Z
+176895607,story_move_activity,Karen Sommer moved this story before 'View my current private events',Karen Sommer,2021-02-14T19:53:40Z
+176879628,story_move_activity,Karen Sommer moved this story before 'Email notification of event invitation',Karen Sommer,2021-02-14T19:53:38Z
+176879631,story_move_activity,Karen Sommer moved this story before 'Email notification of event invitation',Karen Sommer,2021-02-14T19:53:35Z
+176936649,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T19:52:37Z
+22904514,label_create_activity,"George Wright created labels: ""desirable""",George Wright,2021-02-14T19:50:31Z
+22904513,label_create_activity,"George Wright created labels: ""essential""",George Wright,2021-02-14T19:50:24Z
+176936657,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T19:50:24Z
+22904496,label_delete_activity,"George Wright deleted label: ""user profile management""",George Wright,2021-02-14T19:50:15Z
+22890933,label_delete_activity,"George Wright deleted label: ""test epic""",George Wright,2021-02-14T19:50:11Z
+4726900,epic_delete_activity,George Wright deleted this epic,George Wright,2021-02-14T19:49:21Z
+4728558,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:49:13Z
+176936659,story_delete_activity,Aysha Zenab Kenza deleted this feature,Aysha Zenab Kenza,2021-02-14T19:49:04Z
+4728555,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:48:53Z
+4728558,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:48:41Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T19:48:23Z
+22904492,label_update_activity,George Wright renamed label from 'user authentication' to 'user authentication/registration/profile',George Wright,2021-02-14T19:47:52Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T19:47:05Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T19:46:57Z
+176936657,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T19:46:06Z
+4728556,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:45:06Z
+4728559,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:44:11Z
+4728561,epic_delete_activity,George Wright deleted this epic,George Wright,2021-02-14T19:43:25Z
+4728557,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:43:17Z
+4728559,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:41:46Z
+4728560,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:41:26Z
+4728561,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:41:18Z
+4728567,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T19:41:02Z
+4728567,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T19:39:00Z
+22904510,label_create_activity,"George Wright created labels: ""optional features""",George Wright,2021-02-14T19:38:59Z
+176936476,story_move_activity,Zach Schandorf-Lartey moved this story,Zach Schandorf-Lartey,2021-02-14T19:38:31Z
+176936634,story_move_activity,Zach Schandorf-Lartey moved this story,Zach Schandorf-Lartey,2021-02-14T19:38:19Z
+176936476,story_move_activity,Zach Schandorf-Lartey moved and scheduled this story before 'Email notification of event invitation',Zach Schandorf-Lartey,2021-02-14T19:38:12Z
+176936476,story_move_activity,Zach Schandorf-Lartey moved this story,Zach Schandorf-Lartey,2021-02-14T19:38:07Z
+176936476,story_move_activity,Zach Schandorf-Lartey moved and scheduled this story before 'Event invitee complete task',Zach Schandorf-Lartey,2021-02-14T19:37:48Z
+176936634,story_move_activity,Zach Schandorf-Lartey moved and scheduled this story before 'Event invitee complete task',Zach Schandorf-Lartey,2021-02-14T19:37:45Z
+176936657,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T19:30:29Z
+176879631,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:09:24Z
+176895607,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:09:13Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T19:08:53Z
+176936659,story_move_activity,Aysha Zenab Kenza moved this story before 'Delete User ',Aysha Zenab Kenza,2021-02-14T18:30:57Z
+176936659,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-14T18:30:52Z
+176936657,story_move_activity,Aysha Zenab Kenza moved this story before 'Delete User ',Aysha Zenab Kenza,2021-02-14T18:30:30Z
+176936657,story_update_activity,Aysha Zenab Kenza edited this feature,Aysha Zenab Kenza,2021-02-14T18:30:27Z
+176936657,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-14T18:30:22Z
+176936649,story_move_activity,Aysha Zenab Kenza moved this story before 'Log in',Aysha Zenab Kenza,2021-02-14T18:30:05Z
+176936476,story_move_activity,Aysha Zenab Kenza moved this story before 'Log in',Aysha Zenab Kenza,2021-02-14T18:30:02Z
+176936655,story_delete_activity,Aysha Zenab Kenza deleted this feature,Aysha Zenab Kenza,2021-02-14T18:29:46Z
+176936655,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-14T18:29:26Z
+176936476,story_move_activity,Aysha Zenab Kenza moved this story before 'Event invitee complete task',Aysha Zenab Kenza,2021-02-14T18:28:37Z
+176936649,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-14T18:28:10Z
+176936603,story_move_activity,George Wright moved this story,George Wright,2021-02-14T18:18:57Z
+176936597,story_move_activity,George Wright moved and scheduled this story before 'Event invitee complete task',George Wright,2021-02-14T18:18:53Z
+176936603,story_move_activity,George Wright moved and scheduled this story before 'Email notification of task assignment',George Wright,2021-02-14T18:18:50Z
+176936636,story_create_activity,George Wright added this feature,George Wright,2021-02-14T18:18:43Z
+176936634,story_create_activity,George Wright added this feature,George Wright,2021-02-14T18:16:17Z
+176879638,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:09:21Z
+176879640,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:09:08Z
+176936476,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:08:38Z
+176879375,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:08:20Z
+176879375,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:08:09Z
+176879523,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:07:56Z
+176879523,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:07:14Z
+4728561,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T18:06:36Z
+22904496,label_create_activity,"George Wright created labels: ""user profile management""",George Wright,2021-02-14T18:06:35Z
+4728555,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T18:06:30Z
+4728560,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T18:06:17Z
+22904495,label_create_activity,"George Wright created labels: ""user dashboard/feed""",George Wright,2021-02-14T18:06:17Z
+4728559,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T18:05:50Z
+22904494,label_create_activity,"George Wright created labels: ""event user roles""",George Wright,2021-02-14T18:05:49Z
+4728558,epic_update_activity,George Wright edited this epic,George Wright,2021-02-14T18:05:33Z
+4728558,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T18:05:19Z
+22904493,label_create_activity,"George Wright created labels: ""basic event management""",George Wright,2021-02-14T18:05:18Z
+4728557,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T18:05:14Z
+22904492,label_create_activity,"George Wright created labels: ""user authentication/registration/profile""",George Wright,2021-02-14T18:05:13Z
+4728556,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T18:05:02Z
+22904491,label_create_activity,"George Wright created labels: ""invitee list""",George Wright,2021-02-14T18:05:02Z
+176837889,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:04:46Z
+176837889,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:04:39Z
+176837889,story_update_activity,George Wright unestimated this feature,George Wright,2021-02-14T18:03:58Z
+176837889,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:02:49Z
+176837889,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:01:22Z
+176837889,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:01:20Z
+176936603,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:00:27Z
+176936597,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T18:00:15Z
+176936603,story_create_activity,George Wright added this feature,George Wright,2021-02-14T18:00:07Z
+176936597,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T17:56:18Z
+176936476,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T17:56:11Z
+176936476,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T17:55:56Z
+4728555,epic_create_activity,George Wright added this epic,George Wright,2021-02-14T17:55:46Z
+22904490,label_create_activity,"George Wright created labels: ""event to-do list""",George Wright,2021-02-14T17:55:46Z
+22904489,label_delete_activity,"George Wright deleted label: ""to-do list""",George Wright,2021-02-14T17:55:38Z
+176936476,story_update_activity,George Wright edited this feature,George Wright,2021-02-14T17:55:28Z
+176936597,story_create_activity,George Wright added this feature,George Wright,2021-02-14T17:55:13Z
+22904489,label_create_activity,"George Wright created labels: ""to-do list""",George Wright,2021-02-14T17:55:13Z
+176936476,story_create_activity,Aysha Zenab Kenza added this feature,Aysha Zenab Kenza,2021-02-14T17:07:35Z
+176895607,comment_create_activity,"Karen Sommer added comment: ""Given a 'view my history events' button is available,when the registered user clicks on the button, a page will be display to the user with the different events stored in the users history""",Karen Sommer,2021-02-14T00:44:29Z
+176879640,comment_create_activity,"Karen Sommer added comment: ""Given a delete button is in the current events, the registered user clicks on that button, and the page will pop up a confirmation box. After accepting it, the event is not longer in the events list (neither in  history and current)""",Karen Sommer,2021-02-14T00:43:25Z
+176879638,comment_update_activity,Karen Sommer edited this comment,Karen Sommer,2021-02-14T00:40:15Z
+176879638,comment_create_activity,"Karen Sommer added comment: ""Given an update option is in the available in the current events, the registered user clicks on the button, a page will be display with the different spaces to modify ( events name, description, location and starting and ending date and time)""",Karen Sommer,2021-02-14T00:39:38Z
+176879631,comment_create_activity,"Karen Sommer added comment: ""Given a 'view my current events' button is available,when the registered user clicks on the button, a page will be display to the user with the different current events that are not over.""",Karen Sommer,2021-02-14T00:37:29Z
+176879628,comment_create_activity,"Karen Sommer added comment: ""Given a create event button is available,when the registred user clicks on the button, a page will be display to the user , to enable the user to input the events name, description, location and starting and ending date and time.""",Karen Sommer,2021-02-14T00:36:47Z
+176879640,task_create_activity,"Karen Sommer added task: ""Integrate and do testing - 1h""",Karen Sommer,2021-02-14T00:25:13Z
+176879640,task_create_activity,"Karen Sommer added task: ""Write unit tests - 1h""",Karen Sommer,2021-02-14T00:25:08Z
+176879640,task_create_activity,"Karen Sommer added task: ""Create logic to delete the event to the database - 2h""",Karen Sommer,2021-02-14T00:25:02Z
+176879640,task_create_activity,"Karen Sommer added task: ""Bring event class - 0.2h""",Karen Sommer,2021-02-14T00:24:56Z
+176879640,task_update_activity,"Karen Sommer rewrote task: ""Create the UI delete event page - 2h""",Karen Sommer,2021-02-14T00:24:44Z
+176879640,task_create_activity,"Karen Sommer added task: ""Create the UI delete event page - 2h""",Karen Sommer,2021-02-14T00:24:35Z
+176879638,task_create_activity,"Karen Sommer added task: ""Integrate and do testing - 1h""",Karen Sommer,2021-02-14T00:22:20Z
+176879638,task_create_activity,"Karen Sommer added task: ""Write unit tests - 1h""",Karen Sommer,2021-02-14T00:22:13Z
+176879638,task_create_activity,"Karen Sommer added task: ""Create logic to update the event to the database - 2h""",Karen Sommer,2021-02-14T00:22:05Z
+176879638,task_create_activity,"Karen Sommer added task: ""Update the event in the database - 0.5h""",Karen Sommer,2021-02-14T00:21:58Z
+176879638,task_create_activity,"Karen Sommer added task: ""Show previous caracteristics of class - 0.5h""",Karen Sommer,2021-02-14T00:21:51Z
+176879638,task_create_activity,"Karen Sommer added task: ""Bring event class - 0.2h""",Karen Sommer,2021-02-14T00:21:43Z
+176879638,task_create_activity,"Karen Sommer added task: ""Create the UI update event page - 2h""",Karen Sommer,2021-02-14T00:21:36Z
+176879631,task_create_activity,"Karen Sommer added task: ""Integrate and do testing - 1h""",Karen Sommer,2021-02-14T00:18:02Z
+176879631,task_create_activity,"Karen Sommer added task: ""Write unit tests - 1h""",Karen Sommer,2021-02-14T00:17:56Z
+176879631,task_create_activity,"Karen Sommer added task: ""Create logic to bring all the current events - 1h""",Karen Sommer,2021-02-14T00:17:49Z
+176879631,task_create_activity,"Karen Sommer added task: ""Create the UI view my current events page - 1h""",Karen Sommer,2021-02-14T00:17:43Z
+176895607,task_create_activity,"Karen Sommer added task: ""Integrate and do testing - 1h""",Karen Sommer,2021-02-14T00:16:46Z
+176895607,task_create_activity,"Karen Sommer added task: ""Write unit tests - 1h""",Karen Sommer,2021-02-14T00:16:40Z
+176895607,task_create_activity,"Karen Sommer added task: ""Create logic to bring all the events history - 1h""",Karen Sommer,2021-02-14T00:16:35Z
+176895607,task_create_activity,"Karen Sommer added task: ""Create the UI view history event page - 1h""",Karen Sommer,2021-02-14T00:16:29Z
+176879628,task_create_activity,"Karen Sommer added task: ""Integrate and do testing - 1h""",Karen Sommer,2021-02-14T00:14:38Z
+176879628,task_create_activity,"Karen Sommer added task: ""Write unit tests - 1h""",Karen Sommer,2021-02-14T00:14:32Z
+176879628,task_create_activity,"Karen Sommer added task: ""Create logic to add the event to the database - 2h""",Karen Sommer,2021-02-14T00:13:37Z
+176879628,task_create_activity,"Karen Sommer added task: ""Create the event in the database - 0.5h""",Karen Sommer,2021-02-14T00:13:30Z
+176879628,task_create_activity,"Karen Sommer added task: ""Add all caracteristics to class - 0.5h""",Karen Sommer,2021-02-14T00:13:23Z
+176879628,task_create_activity,"Karen Sommer added task: ""Create a new event class - 0.5h""",Karen Sommer,2021-02-14T00:13:16Z
+176879628,task_create_activity,"Karen Sommer added task: ""Create the UI create event page - 2h""",Karen Sommer,2021-02-14T00:13:10Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-14T00:10:07Z
+176879523,story_update_activity,Yuting Zhang edited this feature,Yuting Zhang,2021-02-11T01:48:08Z
+176879523,story_update_activity,Yuting Zhang edited this feature,Yuting Zhang,2021-02-11T01:47:23Z
+176879523,story_update_activity,Yuting Zhang edited this feature,Yuting Zhang,2021-02-11T01:46:16Z
+176879523,story_update_activity,Yuting Zhang edited this feature,Yuting Zhang,2021-02-11T01:45:53Z
+176879631,story_move_activity,Yuting Zhang moved this story before 'History private events',Yuting Zhang,2021-02-11T01:44:51Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-11T01:43:01Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-11T01:42:58Z
+176879375,story_update_activity,ckulig estimated this feature as 2 points,ckulig,2021-02-11T01:40:32Z
+176879375,story_update_activity,ckulig estimated this feature as 1 point,ckulig,2021-02-11T01:40:29Z
+176879375,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-11T01:36:50Z
+176879523,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-11T01:36:48Z
+176879523,story_update_activity,ckulig unstarted this feature,ckulig,2021-02-10T22:53:04Z
+176879523,story_update_activity,ckulig accepted this feature,ckulig,2021-02-10T22:51:55Z
+176879523,story_update_activity,ckulig delivered this feature,ckulig,2021-02-10T22:51:45Z
+176879523,story_update_activity,ckulig finished this feature,ckulig,2021-02-10T22:51:40Z
+176879523,story_update_activity,ckulig started this feature,ckulig,2021-02-10T22:51:36Z
+176879375,story_move_activity,ckulig moved this story before 'History private events',ckulig,2021-02-10T22:50:37Z
+176879523,story_move_activity,ckulig moved this story before 'History private events',ckulig,2021-02-10T22:50:27Z
+176879375,story_move_activity,ckulig moved and scheduled this story before 'History private events',ckulig,2021-02-10T22:50:05Z
+176879523,story_move_activity,ckulig moved and scheduled this story before 'History private events',ckulig,2021-02-10T22:50:02Z
+176895607,story_update_activity,Karen Sommer estimated this feature as 1 point,Karen Sommer,2021-02-10T21:22:46Z
+176895607,story_create_activity,Karen Sommer added this feature,Karen Sommer,2021-02-10T21:22:38Z
+176879640,story_move_activity,Karen Sommer moved this story before 'Update my private event',Karen Sommer,2021-02-10T21:10:08Z
+176879523,story_move_activity,ckulig moved this story before 'View feed of events',ckulig,2021-02-10T17:56:55Z
+176879375,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T17:56:53Z
+176879375,story_update_activity,ckulig unstarted this feature,ckulig,2021-02-10T17:56:41Z
+176879523,story_update_activity,ckulig unstarted this feature,ckulig,2021-02-10T17:56:31Z
+176879523,story_update_activity,ckulig finished this feature,ckulig,2021-02-10T17:56:25Z
+176879375,story_move_activity,ckulig moved this story before 'View my current private events',ckulig,2021-02-10T17:56:03Z
+176879375,story_move_activity,ckulig moved this story before 'Log in',ckulig,2021-02-10T17:55:50Z
+176879375,story_update_activity,ckulig started this feature,ckulig,2021-02-10T17:55:44Z
+176879523,story_update_activity,ckulig started this feature,ckulig,2021-02-10T17:55:39Z
+176879523,story_move_activity,ckulig moved this story before 'View feed of events',ckulig,2021-02-10T17:55:36Z
+176879375,story_move_activity,ckulig moved this story before 'Log in',ckulig,2021-02-10T17:46:14Z
+176879523,story_move_activity,ckulig moved this story before 'Delete private event',ckulig,2021-02-10T17:46:12Z
+176879523,story_move_activity,ckulig moved this story before 'View feed of events',ckulig,2021-02-10T17:46:07Z
+176879523,story_update_activity,ckulig unstarted this feature,ckulig,2021-02-10T17:45:58Z
+176879523,story_update_activity,ckulig started this feature,ckulig,2021-02-10T17:45:37Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:45:09Z
+176879523,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:44:58Z
+4726900,epic_create_activity,ckulig added this epic,ckulig,2021-02-10T17:44:45Z
+176879523,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:41:27Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:41:22Z
+4724797,epic_delete_activity,ckulig deleted this epic,ckulig,2021-02-10T17:41:16Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:40:15Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:40:12Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:39:28Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:39:24Z
+176837889,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:38:42Z
+176837889,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T17:38:32Z
+176879375,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T17:33:28Z
+176879523,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T17:33:24Z
+176837889,story_move_activity,ckulig moved this story before 'Update my private event',ckulig,2021-02-10T17:33:22Z
+176837889,story_move_activity,ckulig moved and scheduled this story before 'View my current private events',ckulig,2021-02-10T17:33:14Z
+176879523,story_update_activity,ckulig unstarted this feature,ckulig,2021-02-10T17:32:40Z
+176879523,story_update_activity,ckulig started this feature,ckulig,2021-02-10T17:32:34Z
+176879375,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T17:32:26Z
+176879375,story_move_activity,ckulig moved this story before 'View my current private events',ckulig,2021-02-10T17:31:39Z
+176879523,story_move_activity,ckulig moved this story before 'View my current private events',ckulig,2021-02-10T17:31:37Z
+176879523,story_move_activity,ckulig moved and scheduled this story before 'View feed of events',ckulig,2021-02-10T17:31:27Z
+176879375,story_move_activity,ckulig moved and scheduled this story before 'Create a private event',ckulig,2021-02-10T17:31:15Z
+176837889,story_move_activity,ckulig moved this story before 'Log in',ckulig,2021-02-10T17:31:01Z
+176837889,story_move_activity,ckulig moved and scheduled this story before 'Create a private event',ckulig,2021-02-10T17:30:50Z
+176879375,story_move_activity,ckulig moved this story before 'Log in',ckulig,2021-02-10T17:30:30Z
+176879523,story_move_activity,ckulig moved this story before 'Delete private event',ckulig,2021-02-10T17:30:26Z
+176879523,story_move_activity,ckulig moved and scheduled this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T17:30:16Z
+176879375,story_move_activity,ckulig moved and scheduled this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T17:30:10Z
+176879523,story_move_activity,ckulig moved this story before 'Delete private event',ckulig,2021-02-10T17:19:00Z
+176879375,story_move_activity,ckulig moved this story before 'Delete private event',ckulig,2021-02-10T17:18:57Z
+176879638,story_move_activity,Karen Sommer moved this story after 'Delete private event',Karen Sommer,2021-02-10T03:03:06Z
+176879640,story_move_activity,Karen Sommer moved this story after 'Event owner - Manage event to-do lists',Karen Sommer,2021-02-10T03:03:00Z
+176879640,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-10T03:00:12Z
+176879628,story_update_activity,Karen Sommer edited this feature,Karen Sommer,2021-02-10T02:56:05Z
+176879640,story_create_activity,Karen Sommer added this feature,Karen Sommer,2021-02-10T02:49:38Z
+176879638,story_create_activity,Karen Sommer added this feature,Karen Sommer,2021-02-10T02:49:10Z
+176879631,story_create_activity,Karen Sommer added this feature,Karen Sommer,2021-02-10T02:48:40Z
+176879628,story_create_activity,Karen Sommer added this feature,Karen Sommer,2021-02-10T02:47:06Z
+176879375,blocker_update_activity,"ckulig edited a blocker: ""#176879523""",ckulig,2021-02-10T02:43:27Z
+176879375,blocker_update_activity,"ckulig edited a blocker: ""Login""",ckulig,2021-02-10T02:43:02Z
+176837889,story_move_activity,ckulig moved this story,ckulig,2021-02-10T02:40:38Z
+176879375,story_move_activity,ckulig moved this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T02:39:29Z
+176879375,story_move_activity,ckulig moved and scheduled this story before 'Log in',ckulig,2021-02-10T02:39:26Z
+176879375,story_move_activity,ckulig moved this story after 'Event owner - Manage event to-do lists',ckulig,2021-02-10T02:39:23Z
+176879588,story_delete_activity,ckulig deleted this feature,ckulig,2021-02-10T02:38:59Z
+176879588,story_update_activity,ckulig estimated this feature as 2 points,ckulig,2021-02-10T02:38:40Z
+176879588,story_create_activity,ckulig added this feature,ckulig,2021-02-10T02:38:34Z
+176837889,story_move_activity,ckulig moved this story after 'Log in',ckulig,2021-02-10T02:32:13Z
+176837889,story_move_activity,ckulig moved this story before 'Log in',ckulig,2021-02-10T02:32:09Z
+176879375,blocker_create_activity,"ckulig added a blocker: ""Log in""",ckulig,2021-02-10T02:31:39Z
+176879375,blocker_delete_activity,"ckulig deleted a blocker: ""176879523""",ckulig,2021-02-10T02:31:34Z
+176879375,blocker_update_activity,"ckulig re-added a blocker to this story: ""176879523""",ckulig,2021-02-10T02:31:31Z
+176879375,blocker_update_activity,"ckulig resolved a blocker to this story: ""176879523""",ckulig,2021-02-10T02:31:27Z
+176879375,blocker_create_activity,"ckulig added a blocker: ""176879523""",ckulig,2021-02-10T02:31:09Z
+176879523,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T02:30:36Z
+176879523,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T02:30:15Z
+176879523,story_create_activity,ckulig added this feature,ckulig,2021-02-10T02:29:57Z
+176879458,story_delete_activity,ckulig deleted this feature,ckulig,2021-02-10T02:19:54Z
+176879458,story_create_activity,ckulig added this feature,ckulig,2021-02-10T02:19:30Z
+176837889,story_update_activity,ckulig estimated this feature as 1 point,ckulig,2021-02-10T02:18:53Z
+176837889,story_update_activity,ckulig estimated this feature as 2 points,ckulig,2021-02-10T02:18:49Z
+176837889,story_update_activity,ckulig estimated this feature as 1 point,ckulig,2021-02-10T02:18:46Z
+176837889,story_update_activity,ckulig estimated this feature as 3 points,ckulig,2021-02-10T02:18:35Z
+176879375,story_move_activity,ckulig moved and scheduled this story,ckulig,2021-02-10T02:18:17Z
+176879375,story_move_activity,ckulig moved this story after 'Event owner - Manage event to-do lists',ckulig,2021-02-10T02:18:13Z
+176879375,story_update_activity,ckulig unstarted this feature,ckulig,2021-02-10T02:17:59Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T02:17:11Z
+176879375,story_update_activity,ckulig started this feature,ckulig,2021-02-10T02:14:10Z
+176879375,story_update_activity,ckulig edited this feature,ckulig,2021-02-10T02:14:05Z
+176879375,story_move_activity,ckulig moved and scheduled this story before 'Event owner - Manage event to-do lists',ckulig,2021-02-10T02:12:36Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create an event table in the database - .5h""",ckulig,2021-02-10T02:11:58Z
+176879375,task_update_activity,"ckulig rewrote task: ""Unit test - 1.5h""",ckulig,2021-02-10T02:11:53Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create the UI that will display the users event information - 1.5h""",ckulig,2021-02-10T02:11:42Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create an event table in the database - .5""",ckulig,2021-02-10T02:11:32Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create the event class - .5h""",ckulig,2021-02-10T02:10:49Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create the user in the database - .5h""",ckulig,2021-02-10T02:10:40Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create user login/authentication UI - 2h""",ckulig,2021-02-10T02:10:32Z
+176879375,task_update_activity,"ckulig rewrote task: ""Create user class - .5h""",ckulig,2021-02-10T02:10:26Z
+176879375,story_create_activity,ckulig added this feature,ckulig,2021-02-10T02:09:17Z
+,project_membership_create_activity,Yuting Zhang added new members: Aysha Zenab Kenza,Yuting Zhang,2021-02-08T19:08:23Z
+176837889,story_move_activity,George Wright moved and scheduled this story,George Wright,2021-02-07T19:30:36Z
+176837889,story_move_activity,George Wright moved this story,George Wright,2021-02-07T19:30:31Z
+176837889,story_move_activity,George Wright moved and scheduled this story,George Wright,2021-02-07T19:30:24Z
+176837889,story_move_activity,George Wright moved this story,George Wright,2021-02-07T19:30:21Z
+,iteration_update_activity,George Wright changed iteration 1's length from 2 weeks to 1 week,George Wright,2021-02-07T19:29:51Z
+,iteration_update_activity,George Wright changed iteration 1's length from default to 2 weeks,George Wright,2021-02-07T19:29:49Z
+176837889,story_move_activity,George Wright moved and scheduled this story,George Wright,2021-02-07T19:29:10Z
+176837889,story_update_activity,"George Wright added label ""test epic"" to ""Event owner - Manage event to-do lists""",George Wright,2021-02-07T19:29:00Z
+4724797,epic_create_activity,George Wright added this epic,George Wright,2021-02-07T19:28:58Z
+22890933,label_create_activity,"George Wright created labels: ""test epic""",George Wright,2021-02-07T19:28:58Z
+176837889,story_move_activity,George Wright moved this story,George Wright,2021-02-07T19:28:41Z
+176837889,story_create_activity,George Wright added this feature,George Wright,2021-02-07T19:28:25Z
+176757315,story_delete_activity,ckulig deleted this feature,ckulig,2021-02-02T04:02:53Z
+176757315,story_update_activity,ckulig rejected this feature,ckulig,2021-02-02T04:02:00Z
+176757315,comment_create_activity,"ckulig added comment: ""Testing the reject function.""",ckulig,2021-02-02T04:01:59Z
+176757315,story_update_activity,ckulig delivered this feature,ckulig,2021-02-02T04:01:43Z
+176757315,story_update_activity,ckulig finished this feature,ckulig,2021-02-02T04:01:40Z
+176757315,story_update_activity,ckulig started this feature,ckulig,2021-02-02T04:00:43Z
+176757315,story_create_activity,ckulig added this feature,ckulig,2021-02-02T04:00:33Z
+2487101,project_membership_update_activity,Karen Sommer updated their profile,Karen Sommer,2021-02-01T17:40:05Z
+2487101,project_membership_update_activity,Zach Schandorf-Lartey updated their profile,Zach Schandorf-Lartey,2021-02-01T03:05:32Z
+,project_membership_create_activity,"Yuting Zhang added new members: vibs97, Karen Sommer, ckulig, Zach Schandorf-Lartey, George Wright, mtdowding",Yuting Zhang,2021-02-01T03:04:36Z
+,project_membership_create_activity,"Yuting Zhang added new members: vibs97, Karen Sommer, ckulig, Zach Schandorf-Lartey, George Wright, mtdowding",Yuting Zhang,2021-02-01T03:04:36Z
+,project_membership_create_activity,"Yuting Zhang added new members: vibs97, Karen Sommer, ckulig, Zach Schandorf-Lartey, George Wright, mtdowding",Yuting Zhang,2021-02-01T03:04:36Z
+,project_membership_create_activity,"Yuting Zhang added new members: vibs97, Karen Sommer, ckulig, Zach Schandorf-Lartey, George Wright, mtdowding",Yuting Zhang,2021-02-01T03:04:36Z
+,project_membership_create_activity,"Yuting Zhang added new members: vibs97, Karen Sommer, ckulig, Zach Schandorf-Lartey, George Wright, mtdowding",Yuting Zhang,2021-02-01T03:04:36Z
+,project_membership_create_activity,"Yuting Zhang added new members: vibs97, Karen Sommer, ckulig, Zach Schandorf-Lartey, George Wright, mtdowding",Yuting Zhang,2021-02-01T03:04:36Z
